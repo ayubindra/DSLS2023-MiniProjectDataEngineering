@@ -1,0 +1,1060 @@
+OrderID;Order Date;Shipped Date;Customer Name;Country;Product Name;Product Category;Unit Sold;Sales
+10400;01/01/1997;16/01/1997;Eastern Connection;UK;Thüringer Rostbratwurst;Meat/Poultry;21;2079
+10400;01/01/1997;16/01/1997;Eastern Connection;UK;Steeleye Stout;Beverages;35;504
+10400;01/01/1997;16/01/1997;Eastern Connection;UK;Maxilaku;Confections;30;480
+10401;01/01/1997;10/01/1997;Rattlesnake Canyon Grocery;USA;Nord-Ost Matjeshering;Seafood;18;372
+10401;01/01/1997;10/01/1997;Rattlesnake Canyon Grocery;USA;Gnocchi di nonna Alice;Grains/Cereals;70;2128
+10401;01/01/1997;10/01/1997;Rattlesnake Canyon Grocery;USA;Louisiana Fiery Hot Pepper Sauce;Condiments;20;336
+10401;01/01/1997;10/01/1997;Rattlesnake Canyon Grocery;USA;Flotemysost;Dairy Products;60;1032
+10402;02/01/1997;10/01/1997;Ernst Handel;Austria;Tunnbröd;Grains/Cereals;60;432
+10402;02/01/1997;10/01/1997;Ernst Handel;Austria;Vegie-spread;Condiments;65;2281
+10403;03/01/1997;09/01/1997;Ernst Handel;Austria;Pavlova;Confections;21;291
+10403;03/01/1997;09/01/1997;Ernst Handel;Austria;Chocolade;Confections;70;713
+10404;03/01/1997;08/01/1997;Magazzini Alimentari Riuniti;Italy;Gumbär Gummibärchen;Confections;30;746
+10404;03/01/1997;08/01/1997;Magazzini Alimentari Riuniti;Italy;Singaporean Hokkien Fried Mee;Grains/Cereals;40;447
+10404;03/01/1997;08/01/1997;Magazzini Alimentari Riuniti;Italy;Maxilaku;Confections;30;479
+10405;06/01/1997;22/01/1997;LINO-Delicateses;Venezuela;Aniseed Syrup;Condiments;50;400
+10406;07/01/1997;13/01/1997;Queen Cozinha;Brazil;Chai;Beverages;10;144
+10406;07/01/1997;13/01/1997;Queen Cozinha;Brazil;Sir Rodney's Scones;Confections;30;239
+10406;07/01/1997;13/01/1997;Queen Cozinha;Brazil;Rössle Sauerkraut;Produce;42;1528
+10406;07/01/1997;13/01/1997;Queen Cozinha;Brazil;Inlagd Sill;Seafood;5;75
+10406;07/01/1997;13/01/1997;Queen Cozinha;Brazil;Boston Crab Meat;Seafood;2;29
+10407;07/01/1997;30/01/1997;Ottilies Käseladen;Germany;Queso Cabrales;Dairy Products;30;504
+10407;07/01/1997;30/01/1997;Ottilies Käseladen;Germany;Gudbrandsdalsost;Dairy Products;15;432
+10407;07/01/1997;30/01/1997;Ottilies Käseladen;Germany;Flotemysost;Dairy Products;15;258
+10408;08/01/1997;14/01/1997;Folies gourmandes;France;Gravad lax;Seafood;10;208
+10408;08/01/1997;14/01/1997;Folies gourmandes;France;Tourtière;Meat/Poultry;6;35
+10408;08/01/1997;14/01/1997;Folies gourmandes;France;Tarte au sucre;Confections;35;1379
+10409;09/01/1997;14/01/1997;Océano Atlántico Ltda.;Argentina;Tofu;Produce;12;223
+10409;09/01/1997;14/01/1997;Océano Atlántico Ltda.;Argentina;Sir Rodney's Scones;Confections;12;96
+10410;10/01/1997;15/01/1997;Bottom-Dollar Markets;Canada;Geitost;Dairy Products;49;98
+10410;10/01/1997;15/01/1997;Bottom-Dollar Markets;Canada;Raclette Courdavault;Dairy Products;16;704
+10411;10/01/1997;21/01/1997;Bottom-Dollar Markets;Canada;Jack's New England Clam Chowder;Seafood;25;192
+10411;10/01/1997;21/01/1997;Bottom-Dollar Markets;Canada;Gula Malacca;Condiments;40;619
+10411;10/01/1997;21/01/1997;Bottom-Dollar Markets;Canada;Raclette Courdavault;Dairy Products;9;395
+10412;13/01/1997;15/01/1997;Wartian Herkku;Finland;Tofu;Produce;20;371
+10413;14/01/1997;16/01/1997;La maison d'Asie;France;Chai;Beverages;24;345
+10413;14/01/1997;16/01/1997;La maison d'Asie;France;Tarte au sucre;Confections;40;1576
+10413;14/01/1997;16/01/1997;La maison d'Asie;France;Lakkalikööri;Beverages;14;201
+10414;14/01/1997;17/01/1997;Familia Arquibaldo;Brazil;Teatime Chocolate Biscuits;Confections;18;131
+10414;14/01/1997;17/01/1997;Familia Arquibaldo;Brazil;Geitost;Dairy Products;50;100
+10415;15/01/1997;24/01/1997;Hungry Coyote Import Store;USA;Alice Mutton;Meat/Poultry;2;62
+10415;15/01/1997;24/01/1997;Hungry Coyote Import Store;USA;Geitost;Dairy Products;20;40
+10416;16/01/1997;27/01/1997;Wartian Herkku;Finland;Teatime Chocolate Biscuits;Confections;20;146
+10416;16/01/1997;27/01/1997;Wartian Herkku;Finland;Perth Pasties;Meat/Poultry;10;262
+10416;16/01/1997;27/01/1997;Wartian Herkku;Finland;Ravioli Angelo;Grains/Cereals;20;312
+10417;16/01/1997;28/01/1997;Simons bistro;Denmark;Côte de Blaye;Beverages;50;10540
+10417;16/01/1997;28/01/1997;Simons bistro;Denmark;Spegesild;Seafood;2;18
+10417;16/01/1997;28/01/1997;Simons bistro;Denmark;Scottish Longbreads;Confections;36;359
+10417;16/01/1997;28/01/1997;Simons bistro;Denmark;Original Frankfurter grüne Soße;Condiments;35;364
+10418;17/01/1997;24/01/1997;QUICK-Stop;Germany;Chang;Beverages;60;912
+10418;17/01/1997;24/01/1997;QUICK-Stop;Germany;Zaanse koeken;Confections;55;418
+10418;17/01/1997;24/01/1997;QUICK-Stop;Germany;Sirop d'érable;Condiments;16;364
+10418;17/01/1997;24/01/1997;QUICK-Stop;Germany;Longlife Tofu;Produce;15;120
+10419;20/01/1997;30/01/1997;Richter Supermarkt;Switzerland;Camembert Pierrot;Dairy Products;60;1631
+10419;20/01/1997;30/01/1997;Richter Supermarkt;Switzerland;Gudbrandsdalsost;Dairy Products;20;575
+10420;21/01/1997;27/01/1997;Wellington Importadora;Brazil;Mishi Kobe Niku;Meat/Poultry;20;1551
+10420;21/01/1997;27/01/1997;Wellington Importadora;Brazil;Konbu;Seafood;2;9
+10420;21/01/1997;27/01/1997;Wellington Importadora;Brazil;Outback Lager;Beverages;8;95
+10420;21/01/1997;27/01/1997;Wellington Importadora;Brazil;Röd Kaviar;Seafood;20;239
+10421;21/01/1997;27/01/1997;Que Delícia;Brazil;Teatime Chocolate Biscuits;Confections;4;29
+10421;21/01/1997;27/01/1997;Que Delícia;Brazil;Gumbär Gummibärchen;Confections;30;747
+10421;21/01/1997;27/01/1997;Que Delícia;Brazil;Perth Pasties;Meat/Poultry;15;392
+10421;21/01/1997;27/01/1997;Que Delícia;Brazil;Original Frankfurter grüne Soße;Condiments;10;103
+10422;22/01/1997;31/01/1997;Franchi S.p.A.;Italy;Gumbär Gummibärchen;Confections;2;49
+10423;23/01/1997;24/02/1997;Gourmet Lanchonetes;Brazil;Gorgonzola Telino;Dairy Products;14;140
+10423;23/01/1997;24/02/1997;Gourmet Lanchonetes;Brazil;Raclette Courdavault;Dairy Products;20;880
+10424;23/01/1997;27/01/1997;Mère Paillarde;Canada;Steeleye Stout;Beverages;60;863
+10424;23/01/1997;27/01/1997;Mère Paillarde;Canada;Côte de Blaye;Beverages;49;10329
+10424;23/01/1997;27/01/1997;Mère Paillarde;Canada;Scottish Longbreads;Confections;30;299
+10425;24/01/1997;14/02/1997;La maison d'Asie;France;Pâté chinois;Meat/Poultry;10;191
+10425;24/01/1997;14/02/1997;La maison d'Asie;France;Lakkalikööri;Beverages;20;287
+10426;27/01/1997;06/02/1997;Galería del gastrónomo;Spain;Gnocchi di nonna Alice;Grains/Cereals;5;152
+10426;27/01/1997;06/02/1997;Galería del gastrónomo;Spain;Wimmers gute Semmelknödel;Grains/Cereals;7;186
+10427;27/01/1997;03/03/1997;Piccolo und mehr;Austria;Tofu;Produce;35;651
+10428;28/01/1997;04/02/1997;Reggiani Caseifici;Italy;Spegesild;Seafood;20;192
+10429;29/01/1997;07/02/1997;Hungry Owl All-Night Grocers;Ireland;Valkoinen suklaa;Confections;40;520
+10429;29/01/1997;07/02/1997;Hungry Owl All-Night Grocers;Ireland;Vegie-spread;Condiments;35;1228
+10430;30/01/1997;03/02/1997;Ernst Handel;Austria;Alice Mutton;Meat/Poultry;45;1403
+10430;30/01/1997;03/02/1997;Ernst Handel;Austria;Sir Rodney's Scones;Confections;50;400
+10430;30/01/1997;03/02/1997;Ernst Handel;Austria;Gnocchi di nonna Alice;Grains/Cereals;30;912
+10430;30/01/1997;03/02/1997;Ernst Handel;Austria;Raclette Courdavault;Dairy Products;70;3079
+10431;30/01/1997;07/02/1997;Bottom-Dollar Markets;Canada;Alice Mutton;Meat/Poultry;50;1559
+10431;30/01/1997;07/02/1997;Bottom-Dollar Markets;Canada;Boston Crab Meat;Seafood;50;734
+10431;30/01/1997;07/02/1997;Bottom-Dollar Markets;Canada;Zaanse koeken;Confections;30;227
+10432;31/01/1997;07/02/1997;Split Rail Beer & Ale;USA;Gumbär Gummibärchen;Confections;10;249
+10432;31/01/1997;07/02/1997;Split Rail Beer & Ale;USA;Tourtière;Meat/Poultry;40;236
+10433;03/02/1997;04/03/1997;Princesa Isabel Vinhos;Portugal;Gnocchi di nonna Alice;Grains/Cereals;28;851
+10434;03/02/1997;13/02/1997;Folk och fä HB;Sweden;Queso Cabrales;Dairy Products;6;100
+10434;03/02/1997;13/02/1997;Folk och fä HB;Sweden;Lakkalikööri;Beverages;18;259
+10435;04/02/1997;07/02/1997;Consolidated Holdings;UK;Chang;Beverages;10;152
+10435;04/02/1997;07/02/1997;Consolidated Holdings;UK;Gustaf's Knäckebröd;Grains/Cereals;12;201
+10435;04/02/1997;07/02/1997;Consolidated Holdings;UK;Mozzarella di Giovanni;Dairy Products;10;278
+10436;05/02/1997;11/02/1997;Blondesddsl père et fils;France;Spegesild;Seafood;5;48
+10436;05/02/1997;11/02/1997;Blondesddsl père et fils;France;Gnocchi di nonna Alice;Grains/Cereals;40;1215
+10436;05/02/1997;11/02/1997;Blondesddsl père et fils;France;Wimmers gute Semmelknödel;Grains/Cereals;30;797
+10436;05/02/1997;11/02/1997;Blondesddsl père et fils;France;Rhönbräu Klosterbier;Beverages;24;148
+10437;05/02/1997;12/02/1997;Wartian Herkku;Finland;Perth Pasties;Meat/Poultry;15;393
+10438;06/02/1997;14/02/1997;Toms Spezialitäten;Germany;Teatime Chocolate Biscuits;Confections;15;109
+10438;06/02/1997;14/02/1997;Toms Spezialitäten;Germany;Sasquatch Ale;Beverages;20;223
+10438;06/02/1997;14/02/1997;Toms Spezialitäten;Germany;Ravioli Angelo;Grains/Cereals;15;233
+10439;07/02/1997;10/02/1997;Mère Paillarde;Canada;Queso Manchego La Pastora;Dairy Products;15;456
+10439;07/02/1997;10/02/1997;Mère Paillarde;Canada;Pavlova;Confections;16;222
+10439;07/02/1997;10/02/1997;Mère Paillarde;Canada;Wimmers gute Semmelknödel;Grains/Cereals;6;159
+10439;07/02/1997;10/02/1997;Mère Paillarde;Canada;Longlife Tofu;Produce;30;240
+10440;10/02/1997;28/02/1997;Save-a-lot Markets;USA;Chang;Beverages;45;683
+10440;10/02/1997;28/02/1997;Save-a-lot Markets;USA;Pavlova;Confections;49;680
+10440;10/02/1997;28/02/1997;Save-a-lot Markets;USA;Thüringer Rostbratwurst;Meat/Poultry;24;2375
+10440;10/02/1997;28/02/1997;Save-a-lot Markets;USA;Sirop d'érable;Condiments;90;2051
+10441;10/02/1997;14/03/1997;Old World Delicatessen;USA;Schoggi Schokolade;Confections;50;1755
+10442;11/02/1997;18/02/1997;Ernst Handel;Austria;Queso Cabrales;Dairy Products;30;504
+10442;11/02/1997;18/02/1997;Ernst Handel;Austria;Tourtière;Meat/Poultry;80;472
+10442;11/02/1997;18/02/1997;Ernst Handel;Austria;Louisiana Hot Spiced Okra;Condiments;60;816
+10443;12/02/1997;14/02/1997;Reggiani Caseifici;Italy;Queso Cabrales;Dairy Products;6;100
+10443;12/02/1997;14/02/1997;Reggiani Caseifici;Italy;Rössle Sauerkraut;Produce;12;436
+10444;12/02/1997;21/02/1997;Berglunds snabbköp;Sweden;Alice Mutton;Meat/Poultry;10;312
+10444;12/02/1997;21/02/1997;Berglunds snabbköp;Sweden;Gumbär Gummibärchen;Confections;15;373
+10444;12/02/1997;21/02/1997;Berglunds snabbköp;Sweden;Steeleye Stout;Beverages;8;115
+10444;12/02/1997;21/02/1997;Berglunds snabbköp;Sweden;Jack's New England Clam Chowder;Seafood;30;231
+10445;13/02/1997;20/02/1997;Berglunds snabbköp;Sweden;Chartreuse verte;Beverages;6;86
+10445;13/02/1997;20/02/1997;Berglunds snabbköp;Sweden;Tourtière;Meat/Poultry;15;88
+10446;14/02/1997;19/02/1997;Toms Spezialitäten;Germany;Teatime Chocolate Biscuits;Confections;12;87
+10446;14/02/1997;19/02/1997;Toms Spezialitäten;Germany;Guaraná Fantástica;Beverages;20;71
+10446;14/02/1997;19/02/1997;Toms Spezialitäten;Germany;Gorgonzola Telino;Dairy Products;3;29
+10446;14/02/1997;19/02/1997;Toms Spezialitäten;Germany;Filo Mix;Grains/Cereals;15;83
+10447;14/02/1997;07/03/1997;Ricardo Adocicados;Brazil;Teatime Chocolate Biscuits;Confections;40;292
+10447;14/02/1997;07/03/1997;Ricardo Adocicados;Brazil;Louisiana Fiery Hot Pepper Sauce;Condiments;35;588
+10447;14/02/1997;07/03/1997;Ricardo Adocicados;Brazil;Flotemysost;Dairy Products;2;34
+10448;17/02/1997;24/02/1997;Rancho grande;Argentina;Gumbär Gummibärchen;Confections;6;149
+10448;17/02/1997;24/02/1997;Rancho grande;Argentina;Boston Crab Meat;Seafood;20;294
+10449;18/02/1997;27/02/1997;Blondesddsl père et fils;France;Ikura;Seafood;14;347
+10449;18/02/1997;27/02/1997;Blondesddsl père et fils;France;Filo Mix;Grains/Cereals;20;112
+10449;18/02/1997;27/02/1997;Blondesddsl père et fils;France;Tarte au sucre;Confections;35;1379
+10450;19/02/1997;11/03/1997;Victuailles en stock;France;Ikura;Seafood;20;495
+10450;19/02/1997;11/03/1997;Victuailles en stock;France;Tourtière;Meat/Poultry;6;35
+10451;19/02/1997;12/03/1997;QUICK-Stop;Germany;Pâté chinois;Meat/Poultry;120;2303
+10451;19/02/1997;12/03/1997;QUICK-Stop;Germany;Wimmers gute Semmelknödel;Grains/Cereals;35;930
+10451;19/02/1997;12/03/1997;QUICK-Stop;Germany;Louisiana Fiery Hot Pepper Sauce;Condiments;28;470
+10451;19/02/1997;12/03/1997;QUICK-Stop;Germany;Original Frankfurter grüne Soße;Condiments;55;571
+10452;20/02/1997;26/02/1997;Save-a-lot Markets;USA;Rössle Sauerkraut;Produce;15;546
+10452;20/02/1997;26/02/1997;Save-a-lot Markets;USA;Gula Malacca;Condiments;100;1549
+10453;21/02/1997;26/02/1997;Around the Horn;UK;Chocolade;Confections;15;152
+10453;21/02/1997;26/02/1997;Around the Horn;UK;Outback Lager;Beverages;25;299
+10454;21/02/1997;25/02/1997;La maison d'Asie;France;Pavlova;Confections;20;277
+10454;21/02/1997;25/02/1997;La maison d'Asie;France;Geitost;Dairy Products;20;39
+10454;21/02/1997;25/02/1997;La maison d'Asie;France;Spegesild;Seafood;10;95
+10455;24/02/1997;03/03/1997;Wartian Herkku;Finland;Chartreuse verte;Beverages;20;288
+10455;24/02/1997;03/03/1997;Wartian Herkku;Finland;Perth Pasties;Meat/Poultry;50;1310
+10455;24/02/1997;03/03/1997;Wartian Herkku;Finland;Sirop d'érable;Condiments;25;570
+10455;24/02/1997;03/03/1997;Wartian Herkku;Finland;Flotemysost;Dairy Products;30;516
+10456;25/02/1997;28/02/1997;Königlich Essen;Germany;Sir Rodney's Scones;Confections;40;319
+10456;25/02/1997;28/02/1997;Königlich Essen;Germany;Maxilaku;Confections;21;335
+10457;25/02/1997;03/03/1997;Königlich Essen;Germany;Raclette Courdavault;Dairy Products;36;1584
+10458;26/02/1997;04/03/1997;Suprêmes délices;Belgium;Gumbär Gummibärchen;Confections;30;747
+10458;26/02/1997;04/03/1997;Suprêmes délices;Belgium;Rössle Sauerkraut;Produce;30;1092
+10458;26/02/1997;04/03/1997;Suprêmes délices;Belgium;Ipoh Coffee;Beverages;20;736
+10458;26/02/1997;04/03/1997;Suprêmes délices;Belgium;Gnocchi di nonna Alice;Grains/Cereals;15;456
+10458;26/02/1997;04/03/1997;Suprêmes délices;Belgium;Flotemysost;Dairy Products;50;860
+10459;27/02/1997;28/02/1997;Victuailles en stock;France;Uncle Bob's Organic Dried Pears;Produce;16;383
+10459;27/02/1997;28/02/1997;Victuailles en stock;France;Spegesild;Seafood;20;191
+10459;27/02/1997;28/02/1997;Victuailles en stock;France;Mozzarella di Giovanni;Dairy Products;40;1112
+10460;28/02/1997;03/03/1997;Folk och fä HB;Sweden;Scottish Longbreads;Confections;21;209
+10460;28/02/1997;03/03/1997;Folk och fä HB;Sweden;Rhönbräu Klosterbier;Beverages;4;24
+10461;28/02/1997;05/03/1997;LILA-Supermercado;Venezuela;Sir Rodney's Scones;Confections;40;319
+10461;28/02/1997;05/03/1997;LILA-Supermercado;Venezuela;Nord-Ost Matjeshering;Seafood;28;579
+10461;28/02/1997;05/03/1997;LILA-Supermercado;Venezuela;Pâté chinois;Meat/Poultry;60;1151
+10462;03/03/1997;18/03/1997;Consolidated Holdings;UK;Konbu;Seafood;1;4
+10462;03/03/1997;18/03/1997;Consolidated Holdings;UK;Tunnbröd;Grains/Cereals;21;151
+10463;04/03/1997;06/03/1997;Suprêmes délices;Belgium;Teatime Chocolate Biscuits;Confections;21;153
+10463;04/03/1997;06/03/1997;Suprêmes délices;Belgium;Singaporean Hokkien Fried Mee;Grains/Cereals;50;560
+10464;04/03/1997;14/03/1997;Furia Bacalhau e Frutos do Mar;Portugal;Chef Anton's Cajun Seasoning;Condiments;16;281
+10464;04/03/1997;14/03/1997;Furia Bacalhau e Frutos do Mar;Portugal;Ipoh Coffee;Beverages;3;110
+10464;04/03/1997;14/03/1997;Furia Bacalhau e Frutos do Mar;Portugal;Gnocchi di nonna Alice;Grains/Cereals;30;911
+10464;04/03/1997;14/03/1997;Furia Bacalhau e Frutos do Mar;Portugal;Camembert Pierrot;Dairy Products;20;544
+10465;05/03/1997;14/03/1997;Vaffeljernet;Denmark;Guaraná Fantástica;Beverages;25;90
+10465;05/03/1997;14/03/1997;Vaffeljernet;Denmark;Thüringer Rostbratwurst;Meat/Poultry;18;1781
+10465;05/03/1997;14/03/1997;Vaffeljernet;Denmark;Boston Crab Meat;Seafood;20;294
+10465;05/03/1997;14/03/1997;Vaffeljernet;Denmark;Rogede sild;Seafood;30;227
+10465;05/03/1997;14/03/1997;Vaffeljernet;Denmark;Valkoinen suklaa;Confections;25;325
+10466;06/03/1997;13/03/1997;Comércio Mineiro;Brazil;Queso Cabrales;Dairy Products;10;168
+10466;06/03/1997;13/03/1997;Comércio Mineiro;Brazil;Spegesild;Seafood;5;48
+10467;06/03/1997;11/03/1997;Magazzini Alimentari Riuniti;Italy;Guaraná Fantástica;Beverages;28;100
+10467;06/03/1997;11/03/1997;Magazzini Alimentari Riuniti;Italy;NuNuCa Nuß-Nougat-Creme;Confections;12;134
+10468;07/03/1997;12/03/1997;Königlich Essen;Germany;Nord-Ost Matjeshering;Seafood;8;165
+10468;07/03/1997;12/03/1997;Königlich Essen;Germany;Ipoh Coffee;Beverages;15;552
+10469;10/03/1997;14/03/1997;White Clover Markets;USA;Chang;Beverages;40;607
+10469;10/03/1997;14/03/1997;White Clover Markets;USA;Pavlova;Confections;35;486
+10469;10/03/1997;14/03/1997;White Clover Markets;USA;Gula Malacca;Condiments;2;30
+10470;11/03/1997;14/03/1997;Bon app';France;Carnarvon Tigers;Seafood;30;1500
+10470;11/03/1997;14/03/1997;Bon app';France;Tunnbröd;Grains/Cereals;15;108
+10470;11/03/1997;14/03/1997;Bon app';France;Wimmers gute Semmelknödel;Grains/Cereals;8;212
+10471;11/03/1997;18/03/1997;B's Beverages;UK;Uncle Bob's Organic Dried Pears;Produce;30;720
+10471;11/03/1997;18/03/1997;B's Beverages;UK;Gnocchi di nonna Alice;Grains/Cereals;20;608
+10472;12/03/1997;19/03/1997;Seven Seas Imports;UK;Guaraná Fantástica;Beverages;80;287
+10472;12/03/1997;19/03/1997;Seven Seas Imports;UK;Manjimup Dried Apples;Produce;18;763
+10473;13/03/1997;21/03/1997;Island Trading;UK;Geitost;Dairy Products;12;24
+10473;13/03/1997;21/03/1997;Island Trading;UK;Flotemysost;Dairy Products;12;206
+10474;13/03/1997;21/03/1997;Pericles Comidas clásicas;Mexico;Tofu;Produce;12;223
+10474;13/03/1997;21/03/1997;Pericles Comidas clásicas;Mexico;Rössle Sauerkraut;Produce;18;655
+10474;13/03/1997;21/03/1997;Pericles Comidas clásicas;Mexico;Boston Crab Meat;Seafood;21;308
+10474;13/03/1997;21/03/1997;Pericles Comidas clásicas;Mexico;Rhönbräu Klosterbier;Beverages;10;62
+10475;14/03/1997;04/04/1997;Suprêmes délices;Belgium;Gorgonzola Telino;Dairy Products;35;349
+10475;14/03/1997;04/04/1997;Suprêmes délices;Belgium;Louisiana Hot Spiced Okra;Condiments;60;815
+10475;14/03/1997;04/04/1997;Suprêmes délices;Belgium;Lakkalikööri;Beverages;42;604
+10476;17/03/1997;24/03/1997;HILARION-Abastos;Venezuela;Pâté chinois;Meat/Poultry;2;38
+10476;17/03/1997;24/03/1997;HILARION-Abastos;Venezuela;Outback Lager;Beverages;12;144
+10477;17/03/1997;25/03/1997;Princesa Isabel Vinhos;Portugal;Chai;Beverages;15;216
+10477;17/03/1997;25/03/1997;Princesa Isabel Vinhos;Portugal;Sir Rodney's Scones;Confections;21;167
+10477;17/03/1997;25/03/1997;Princesa Isabel Vinhos;Portugal;Chartreuse verte;Beverages;20;287
+10478;18/03/1997;26/03/1997;Victuailles en stock;France;Ikura;Seafood;20;495
+10479;19/03/1997;21/03/1997;Rattlesnake Canyon Grocery;USA;Côte de Blaye;Beverages;30;6324
+10479;19/03/1997;21/03/1997;Rattlesnake Canyon Grocery;USA;Perth Pasties;Meat/Poultry;28;733
+10479;19/03/1997;21/03/1997;Rattlesnake Canyon Grocery;USA;Raclette Courdavault;Dairy Products;60;2640
+10479;19/03/1997;21/03/1997;Rattlesnake Canyon Grocery;USA;Wimmers gute Semmelknödel;Grains/Cereals;30;798
+10480;20/03/1997;24/03/1997;Folies gourmandes;France;Zaanse koeken;Confections;30;228
+10480;20/03/1997;24/03/1997;Folies gourmandes;France;Raclette Courdavault;Dairy Products;12;528
+10481;20/03/1997;25/03/1997;Ricardo Adocicados;Brazil;Maxilaku;Confections;24;384
+10481;20/03/1997;25/03/1997;Ricardo Adocicados;Brazil;Camembert Pierrot;Dairy Products;40;1088
+10482;21/03/1997;10/04/1997;Lazy K Kountry Store;USA;Boston Crab Meat;Seafood;10;147
+10483;24/03/1997;25/04/1997;White Clover Markets;USA;Sasquatch Ale;Beverages;35;391
+10483;24/03/1997;25/04/1997;White Clover Markets;USA;Original Frankfurter grüne Soße;Condiments;30;311
+10484;24/03/1997;01/04/1997;B's Beverages;UK;Sir Rodney's Scones;Confections;14;112
+10484;24/03/1997;01/04/1997;B's Beverages;UK;Boston Crab Meat;Seafood;10;147
+10484;24/03/1997;01/04/1997;B's Beverages;UK;Manjimup Dried Apples;Produce;3;127
+10485;25/03/1997;31/03/1997;LINO-Delicateses;Venezuela;Chang;Beverages;20;303
+10485;25/03/1997;31/03/1997;LINO-Delicateses;Venezuela;Aniseed Syrup;Condiments;20;159
+10485;25/03/1997;31/03/1997;LINO-Delicateses;Venezuela;Pâté chinois;Meat/Poultry;30;575
+10485;25/03/1997;31/03/1997;LINO-Delicateses;Venezuela;Outback Lager;Beverages;60;719
+10486;26/03/1997;02/04/1997;HILARION-Abastos;Venezuela;Queso Cabrales;Dairy Products;5;84
+10486;26/03/1997;02/04/1997;HILARION-Abastos;Venezuela;Manjimup Dried Apples;Produce;25;1060
+10486;26/03/1997;02/04/1997;HILARION-Abastos;Venezuela;Longlife Tofu;Produce;16;128
+10487;26/03/1997;28/03/1997;Queen Cozinha;Brazil;Teatime Chocolate Biscuits;Confections;5;36
+10487;26/03/1997;28/03/1997;Queen Cozinha;Brazil;Gumbär Gummibärchen;Confections;30;747
+10487;26/03/1997;28/03/1997;Queen Cozinha;Brazil;Tourtière;Meat/Poultry;24;141
+10488;27/03/1997;02/04/1997;Frankenversand;Germany;Raclette Courdavault;Dairy Products;30;1320
+10488;27/03/1997;02/04/1997;Frankenversand;Germany;Röd Kaviar;Seafood;20;239
+10489;28/03/1997;09/04/1997;Piccolo und mehr;Austria;Queso Cabrales;Dairy Products;15;251
+10489;28/03/1997;09/04/1997;Piccolo und mehr;Austria;Pavlova;Confections;18;250
+10490;31/03/1997;03/04/1997;HILARION-Abastos;Venezuela;Raclette Courdavault;Dairy Products;60;2640
+10490;31/03/1997;03/04/1997;HILARION-Abastos;Venezuela;Scottish Longbreads;Confections;30;300
+10490;31/03/1997;03/04/1997;HILARION-Abastos;Venezuela;Rhönbräu Klosterbier;Beverages;36;223
+10491;31/03/1997;08/04/1997;Furia Bacalhau e Frutos do Mar;Portugal;Gula Malacca;Condiments;15;232
+10491;31/03/1997;08/04/1997;Furia Bacalhau e Frutos do Mar;Portugal;Original Frankfurter grüne Soße;Condiments;7;72
+10492;01/04/1997;11/04/1997;Bottom-Dollar Markets;Canada;NuNuCa Nuß-Nougat-Creme;Confections;60;671
+10492;01/04/1997;11/04/1997;Bottom-Dollar Markets;Canada;Singaporean Hokkien Fried Mee;Grains/Cereals;20;223
+10493;02/04/1997;10/04/1997;La maison d'Asie;France;Louisiana Fiery Hot Pepper Sauce;Condiments;15;251
+10493;02/04/1997;10/04/1997;La maison d'Asie;France;Louisiana Hot Spiced Okra;Condiments;10;135
+10493;02/04/1997;10/04/1997;La maison d'Asie;France;Gudbrandsdalsost;Dairy Products;10;287
+10494;02/04/1997;09/04/1997;Comércio Mineiro;Brazil;Gnocchi di nonna Alice;Grains/Cereals;30;912
+10495;03/04/1997;11/04/1997;Laughing Bacchus Wine Cellars;Canada;Tunnbröd;Grains/Cereals;10;72
+10495;03/04/1997;11/04/1997;Laughing Bacchus Wine Cellars;Canada;Jack's New England Clam Chowder;Seafood;20;154
+10495;03/04/1997;11/04/1997;Laughing Bacchus Wine Cellars;Canada;Original Frankfurter grüne Soße;Condiments;5;52
+10496;04/04/1997;07/04/1997;Tradição Hipermercados;Brazil;Gorgonzola Telino;Dairy Products;20;199
+10497;04/04/1997;07/04/1997;Lehmanns Marktstand;Germany;Gnocchi di nonna Alice;Grains/Cereals;14;425
+10497;04/04/1997;07/04/1997;Lehmanns Marktstand;Germany;Mozzarella di Giovanni;Dairy Products;25;695
+10497;04/04/1997;07/04/1997;Lehmanns Marktstand;Germany;Original Frankfurter grüne Soße;Condiments;25;260
+10498;07/04/1997;11/04/1997;HILARION-Abastos;Venezuela;Guaraná Fantástica;Beverages;14;63
+10498;07/04/1997;11/04/1997;HILARION-Abastos;Venezuela;Boston Crab Meat;Seafood;5;92
+10498;07/04/1997;11/04/1997;HILARION-Abastos;Venezuela;Singaporean Hokkien Fried Mee;Grains/Cereals;30;420
+10499;08/04/1997;16/04/1997;LILA-Supermercado;Venezuela;Rössle Sauerkraut;Produce;20;912
+10499;08/04/1997;16/04/1997;LILA-Supermercado;Venezuela;Maxilaku;Confections;25;500
+10500;09/04/1997;17/04/1997;La maison d'Asie;France;Genen Shouyu;Condiments;12;185
+10500;09/04/1997;17/04/1997;La maison d'Asie;France;Rössle Sauerkraut;Produce;8;364
+10501;09/04/1997;16/04/1997;Blauer See Delikatessen;Germany;Tourtière;Meat/Poultry;20;149
+10502;10/04/1997;29/04/1997;Pericles Comidas clásicas;Mexico;Rogede sild;Seafood;21;199
+10502;10/04/1997;29/04/1997;Pericles Comidas clásicas;Mexico;Perth Pasties;Meat/Poultry;6;196
+10502;10/04/1997;29/04/1997;Pericles Comidas clásicas;Mexico;Laughing Lumberjack Lager;Beverages;30;420
+10503;11/04/1997;16/04/1997;Hungry Owl All-Night Grocers;Ireland;Tofu;Produce;70;1627
+10503;11/04/1997;16/04/1997;Hungry Owl All-Night Grocers;Ireland;Louisiana Fiery Hot Pepper Sauce;Condiments;20;421
+10504;11/04/1997;18/04/1997;White Clover Markets;USA;Chang;Beverages;12;228
+10504;11/04/1997;18/04/1997;White Clover Markets;USA;Sir Rodney's Scones;Confections;12;120
+10504;11/04/1997;18/04/1997;White Clover Markets;USA;Perth Pasties;Meat/Poultry;10;328
+10504;11/04/1997;18/04/1997;White Clover Markets;USA;Sirop d'érable;Condiments;25;712
+10505;14/04/1997;21/04/1997;Mère Paillarde;Canada;Tarte au sucre;Confections;3;147
+10506;15/04/1997;02/05/1997;Königlich Essen;Germany;NuNuCa Nuß-Nougat-Creme;Confections;18;251
+10506;15/04/1997;02/05/1997;Königlich Essen;Germany;Outback Lager;Beverages;14;209
+10507;15/04/1997;22/04/1997;Antonio Moreno Taquería;Mexico;Ipoh Coffee;Beverages;15;689
+10507;15/04/1997;22/04/1997;Antonio Moreno Taquería;Mexico;Chocolade;Confections;15;191
+10508;16/04/1997;13/05/1997;Ottilies Käseladen;Germany;Konbu;Seafood;10;60
+10508;16/04/1997;13/05/1997;Ottilies Käseladen;Germany;Chartreuse verte;Beverages;10;180
+10509;17/04/1997;29/04/1997;Blauer See Delikatessen;Germany;Rössle Sauerkraut;Produce;3;136
+10510;18/04/1997;28/04/1997;Save-a-lot Markets;USA;Thüringer Rostbratwurst;Meat/Poultry;36;4456
+10510;18/04/1997;28/04/1997;Save-a-lot Markets;USA;Rhönbräu Klosterbier;Beverages;36;278
+10511;18/04/1997;21/04/1997;Bon app';France;Chef Anton's Cajun Seasoning;Condiments;50;1099
+10511;18/04/1997;21/04/1997;Bon app';France;Uncle Bob's Organic Dried Pears;Produce;50;1499
+10511;18/04/1997;21/04/1997;Bon app';France;Northwoods Cranberry Sauce;Condiments;10;399
+10512;21/04/1997;24/04/1997;Familia Arquibaldo;Brazil;Guaraná Fantástica;Beverages;10;44
+10512;21/04/1997;24/04/1997;Familia Arquibaldo;Brazil;Spegesild;Seafood;9;107
+10512;21/04/1997;24/04/1997;Familia Arquibaldo;Brazil;Zaanse koeken;Confections;6;56
+10512;21/04/1997;24/04/1997;Familia Arquibaldo;Brazil;Camembert Pierrot;Dairy Products;12;407
+10513;22/04/1997;28/04/1997;Die Wandernde Kuh;Germany;Sir Rodney's Scones;Confections;40;399
+10513;22/04/1997;28/04/1997;Die Wandernde Kuh;Germany;Mascarpone Fabioli;Dairy Products;50;1599
+10513;22/04/1997;28/04/1997;Die Wandernde Kuh;Germany;Sirop d'érable;Condiments;15;427
+10514;22/04/1997;16/05/1997;Ernst Handel;Austria;Sir Rodney's Marmalade;Confections;39;3159
+10514;22/04/1997;16/05/1997;Ernst Handel;Austria;Rössle Sauerkraut;Produce;35;1596
+10514;22/04/1997;16/05/1997;Ernst Handel;Austria;Gnocchi di nonna Alice;Grains/Cereals;70;2660
+10514;22/04/1997;16/05/1997;Ernst Handel;Austria;Louisiana Fiery Hot Pepper Sauce;Condiments;39;820
+10514;22/04/1997;16/05/1997;Ernst Handel;Austria;Rhönbräu Klosterbier;Beverages;50;387
+10515;23/04/1997;23/05/1997;QUICK-Stop;Germany;Mishi Kobe Niku;Meat/Poultry;16;1551
+10515;23/04/1997;23/05/1997;QUICK-Stop;Germany;Pavlova;Confections;50;872
+10515;23/04/1997;23/05/1997;QUICK-Stop;Germany;Schoggi Schokolade;Confections;120;5268
+10515;23/04/1997;23/05/1997;QUICK-Stop;Germany;Geitost;Dairy Products;16;39
+10515;23/04/1997;23/05/1997;QUICK-Stop;Germany;Camembert Pierrot;Dairy Products;84;2855
+10516;24/04/1997;01/05/1997;Hungry Owl All-Night Grocers;Ireland;Carnarvon Tigers;Seafood;25;1562
+10516;24/04/1997;01/05/1997;Hungry Owl All-Night Grocers;Ireland;Jack's New England Clam Chowder;Seafood;80;771
+10516;24/04/1997;01/05/1997;Hungry Owl All-Night Grocers;Ireland;Singaporean Hokkien Fried Mee;Grains/Cereals;20;280
+10517;24/04/1997;29/04/1997;North/South;UK;Filo Mix;Grains/Cereals;6;42
+10517;24/04/1997;29/04/1997;North/South;UK;Raclette Courdavault;Dairy Products;4;220
+10517;24/04/1997;29/04/1997;North/South;UK;Outback Lager;Beverages;6;90
+10518;25/04/1997;05/05/1997;Tortuga Restaurante;Mexico;Guaraná Fantástica;Beverages;5;22
+10518;25/04/1997;05/05/1997;Tortuga Restaurante;Mexico;Côte de Blaye;Beverages;15;3952
+10518;25/04/1997;05/05/1997;Tortuga Restaurante;Mexico;Gula Malacca;Condiments;9;175
+10519;28/04/1997;01/05/1997;Chop-suey Chinese;Switzerland;Ikura;Seafood;16;495
+10519;28/04/1997;01/05/1997;Chop-suey Chinese;Switzerland;Gnocchi di nonna Alice;Grains/Cereals;40;1520
+10519;28/04/1997;01/05/1997;Chop-suey Chinese;Switzerland;Camembert Pierrot;Dairy Products;10;339
+10520;29/04/1997;01/05/1997;Santé Gourmet;Norway;Guaraná Fantástica;Beverages;8;36
+10520;29/04/1997;01/05/1997;Santé Gourmet;Norway;Perth Pasties;Meat/Poultry;5;164
+10521;29/04/1997;02/05/1997;Cactus Comidas para llevar;Argentina;Steeleye Stout;Beverages;3;54
+10521;29/04/1997;02/05/1997;Cactus Comidas para llevar;Argentina;Jack's New England Clam Chowder;Seafood;10;96
+10521;29/04/1997;02/05/1997;Cactus Comidas para llevar;Argentina;Scottish Longbreads;Confections;6;75
+10522;30/04/1997;06/05/1997;Lehmanns Marktstand;Germany;Chai;Beverages;40;719
+10522;30/04/1997;06/05/1997;Lehmanns Marktstand;Germany;Northwoods Cranberry Sauce;Condiments;24;960
+10522;30/04/1997;06/05/1997;Lehmanns Marktstand;Germany;Nord-Ost Matjeshering;Seafood;20;517
+10522;30/04/1997;06/05/1997;Lehmanns Marktstand;Germany;Boston Crab Meat;Seafood;25;459
+10523;01/05/1997;30/05/1997;Seven Seas Imports;UK;Alice Mutton;Meat/Poultry;25;974
+10523;01/05/1997;30/05/1997;Seven Seas Imports;UK;Sir Rodney's Marmalade;Confections;15;1214
+10523;01/05/1997;30/05/1997;Seven Seas Imports;UK;Gravad lax;Seafood;18;467
+10523;01/05/1997;30/05/1997;Seven Seas Imports;UK;Jack's New England Clam Chowder;Seafood;6;57
+10524;01/05/1997;07/05/1997;Berglunds snabbköp;Sweden;Ikura;Seafood;2;62
+10524;01/05/1997;07/05/1997;Berglunds snabbköp;Sweden;Nord-Ost Matjeshering;Seafood;10;258
+10524;01/05/1997;07/05/1997;Berglunds snabbköp;Sweden;Ipoh Coffee;Beverages;60;2760
+10524;01/05/1997;07/05/1997;Berglunds snabbköp;Sweden;Tourtière;Meat/Poultry;15;111
+10525;02/05/1997;23/05/1997;Bon app';France;Inlagd Sill;Seafood;30;570
+10525;02/05/1997;23/05/1997;Bon app';France;Boston Crab Meat;Seafood;15;275
+10526;05/05/1997;15/05/1997;Wartian Herkku;Finland;Chai;Beverages;8;143
+10526;05/05/1997;15/05/1997;Wartian Herkku;Finland;Konbu;Seafood;10;60
+10526;05/05/1997;15/05/1997;Wartian Herkku;Finland;Gnocchi di nonna Alice;Grains/Cereals;30;1139
+10527;05/05/1997;07/05/1997;QUICK-Stop;Germany;Chef Anton's Cajun Seasoning;Condiments;50;1099
+10527;05/05/1997;07/05/1997;QUICK-Stop;Germany;Inlagd Sill;Seafood;30;569
+10528;06/05/1997;09/05/1997;Great Lakes Food Market;USA;Queso Cabrales;Dairy Products;3;63
+10528;06/05/1997;09/05/1997;Great Lakes Food Market;USA;Geitost;Dairy Products;8;19
+10528;06/05/1997;09/05/1997;Great Lakes Food Market;USA;Mozzarella di Giovanni;Dairy Products;9;313
+10529;07/05/1997;09/05/1997;Maison Dewey;Belgium;Pâté chinois;Meat/Poultry;14;336
+10529;07/05/1997;09/05/1997;Maison Dewey;Belgium;Scottish Longbreads;Confections;20;250
+10529;07/05/1997;09/05/1997;Maison Dewey;Belgium;Gudbrandsdalsost;Dairy Products;10;360
+10530;08/05/1997;12/05/1997;Piccolo und mehr;Austria;Alice Mutton;Meat/Poultry;40;1560
+10530;08/05/1997;12/05/1997;Piccolo und mehr;Austria;Ipoh Coffee;Beverages;25;1150
+10530;08/05/1997;12/05/1997;Piccolo und mehr;Austria;Sirop d'érable;Condiments;20;570
+10530;08/05/1997;12/05/1997;Piccolo und mehr;Austria;Lakkalikööri;Beverages;50;900
+10531;08/05/1997;19/05/1997;Océano Atlántico Ltda.;Argentina;Raclette Courdavault;Dairy Products;2;110
+10532;09/05/1997;12/05/1997;Eastern Connection;UK;Nord-Ost Matjeshering;Seafood;15;388
+10532;09/05/1997;12/05/1997;Eastern Connection;UK;Louisiana Hot Spiced Okra;Condiments;24;408
+10533;12/05/1997;22/05/1997;Folk och fä HB;Sweden;Chef Anton's Cajun Seasoning;Condiments;50;1099
+10533;12/05/1997;22/05/1997;Folk och fä HB;Sweden;Mozzarella di Giovanni;Dairy Products;24;835
+10533;12/05/1997;22/05/1997;Folk och fä HB;Sweden;Röd Kaviar;Seafood;24;359
+10534;12/05/1997;14/05/1997;Lehmanns Marktstand;Germany;Nord-Ost Matjeshering;Seafood;10;258
+10534;12/05/1997;14/05/1997;Lehmanns Marktstand;Germany;Boston Crab Meat;Seafood;10;183
+10534;12/05/1997;14/05/1997;Lehmanns Marktstand;Germany;Tourtière;Meat/Poultry;10;74
+10535;13/05/1997;21/05/1997;Antonio Moreno Taquería;Mexico;Queso Cabrales;Dairy Products;50;1049
+10535;13/05/1997;21/05/1997;Antonio Moreno Taquería;Mexico;Boston Crab Meat;Seafood;10;183
+10535;13/05/1997;21/05/1997;Antonio Moreno Taquería;Mexico;Ravioli Angelo;Grains/Cereals;5;97
+10535;13/05/1997;21/05/1997;Antonio Moreno Taquería;Mexico;Raclette Courdavault;Dairy Products;15;824
+10536;14/05/1997;06/06/1997;Lehmanns Marktstand;Germany;Queso Manchego La Pastora;Dairy Products;15;569
+10536;14/05/1997;06/06/1997;Lehmanns Marktstand;Germany;Gorgonzola Telino;Dairy Products;20;250
+10536;14/05/1997;06/06/1997;Lehmanns Marktstand;Germany;Geitost;Dairy Products;30;75
+10536;14/05/1997;06/06/1997;Lehmanns Marktstand;Germany;Camembert Pierrot;Dairy Products;35;1189
+10537;14/05/1997;19/05/1997;Richter Supermarkt;Switzerland;Gorgonzola Telino;Dairy Products;30;375
+10537;14/05/1997;19/05/1997;Richter Supermarkt;Switzerland;Manjimup Dried Apples;Produce;6;318
+10537;14/05/1997;19/05/1997;Richter Supermarkt;Switzerland;Escargots de Bourgogne;Seafood;20;265
+10537;14/05/1997;19/05/1997;Richter Supermarkt;Switzerland;Mozzarella di Giovanni;Dairy Products;21;730
+10537;14/05/1997;19/05/1997;Richter Supermarkt;Switzerland;Röd Kaviar;Seafood;9;135
+10538;15/05/1997;16/05/1997;B's Beverages;UK;Outback Lager;Beverages;7;105
+10538;15/05/1997;16/05/1997;B's Beverages;UK;Mozzarella di Giovanni;Dairy Products;1;34
+10539;16/05/1997;23/05/1997;B's Beverages;UK;Konbu;Seafood;8;48
+10539;16/05/1997;23/05/1997;B's Beverages;UK;Sir Rodney's Scones;Confections;15;150
+10539;16/05/1997;23/05/1997;B's Beverages;UK;Geitost;Dairy Products;15;37
+10539;16/05/1997;23/05/1997;B's Beverages;UK;Maxilaku;Confections;6;120
+10540;19/05/1997;13/06/1997;QUICK-Stop;Germany;Aniseed Syrup;Condiments;60;600
+10540;19/05/1997;13/06/1997;QUICK-Stop;Germany;Gumbär Gummibärchen;Confections;40;1249
+10540;19/05/1997;13/06/1997;QUICK-Stop;Germany;Côte de Blaye;Beverages;30;7905
+10540;19/05/1997;13/06/1997;QUICK-Stop;Germany;Scottish Longbreads;Confections;35;437
+10541;19/05/1997;29/05/1997;Hanari Carnes;Brazil;Guaraná Fantástica;Beverages;35;157
+10541;19/05/1997;29/05/1997;Hanari Carnes;Brazil;Côte de Blaye;Beverages;4;1053
+10541;19/05/1997;29/05/1997;Hanari Carnes;Brazil;Louisiana Fiery Hot Pepper Sauce;Condiments;36;757
+10541;19/05/1997;29/05/1997;Hanari Carnes;Brazil;Flotemysost;Dairy Products;9;193
+10542;20/05/1997;26/05/1997;Königlich Essen;Germany;Queso Cabrales;Dairy Products;15;314
+10542;20/05/1997;26/05/1997;Königlich Essen;Germany;Tourtière;Meat/Poultry;24;178
+10543;21/05/1997;23/05/1997;LILA-Supermercado;Venezuela;Queso Manchego La Pastora;Dairy Products;30;1139
+10543;21/05/1997;23/05/1997;LILA-Supermercado;Venezuela;Tunnbröd;Grains/Cereals;70;629
+10544;21/05/1997;30/05/1997;Lonesome Pine Restaurant;USA;Rössle Sauerkraut;Produce;7;319
+10544;21/05/1997;30/05/1997;Lonesome Pine Restaurant;USA;Laughing Lumberjack Lager;Beverages;7;98
+10545;22/05/1997;26/06/1997;Lazy K Kountry Store;USA;Queso Cabrales;Dairy Products;10;210
+10546;23/05/1997;27/05/1997;Victuailles en stock;France;Uncle Bob's Organic Dried Pears;Produce;10;300
+10546;23/05/1997;27/05/1997;Victuailles en stock;France;Steeleye Stout;Beverages;30;540
+10546;23/05/1997;27/05/1997;Victuailles en stock;France;Tarte au sucre;Confections;40;1972
+10547;23/05/1997;02/06/1997;Seven Seas Imports;UK;Mascarpone Fabioli;Dairy Products;24;767
+10547;23/05/1997;02/06/1997;Seven Seas Imports;UK;Inlagd Sill;Seafood;60;1140
+10548;26/05/1997;02/06/1997;Toms Spezialitäten;Germany;Sasquatch Ale;Beverages;10;139
+10548;26/05/1997;02/06/1997;Toms Spezialitäten;Germany;Jack's New England Clam Chowder;Seafood;14;135
+10549;27/05/1997;30/05/1997;QUICK-Stop;Germany;Gorgonzola Telino;Dairy Products;55;687
+10549;27/05/1997;30/05/1997;QUICK-Stop;Germany;Rogede sild;Seafood;100;949
+10549;27/05/1997;30/05/1997;QUICK-Stop;Germany;Manjimup Dried Apples;Produce;48;2543
+10550;28/05/1997;06/06/1997;Godos Cocina Típica;Spain;Alice Mutton;Meat/Poultry;8;311
+10550;28/05/1997;06/06/1997;Godos Cocina Típica;Spain;Teatime Chocolate Biscuits;Confections;10;92
+10550;28/05/1997;06/06/1997;Godos Cocina Típica;Spain;Sir Rodney's Scones;Confections;6;59
+10550;28/05/1997;06/06/1997;Godos Cocina Típica;Spain;Sirop d'érable;Condiments;10;284
+10551;28/05/1997;06/06/1997;Furia Bacalhau e Frutos do Mar;Portugal;Pavlova;Confections;40;697
+10551;28/05/1997;06/06/1997;Furia Bacalhau e Frutos do Mar;Portugal;Steeleye Stout;Beverages;20;359
+10551;28/05/1997;06/06/1997;Furia Bacalhau e Frutos do Mar;Portugal;Gula Malacca;Condiments;40;778
+10552;29/05/1997;05/06/1997;HILARION-Abastos;Venezuela;Gudbrandsdalsost;Dairy Products;18;648
+10552;29/05/1997;05/06/1997;HILARION-Abastos;Venezuela;Rhönbräu Klosterbier;Beverages;30;232
+10553;30/05/1997;03/06/1997;Wartian Herkku;Finland;Queso Cabrales;Dairy Products;15;315
+10553;30/05/1997;03/06/1997;Wartian Herkku;Finland;Pavlova;Confections;14;244
+10553;30/05/1997;03/06/1997;Wartian Herkku;Finland;Gustaf's Knäckebröd;Grains/Cereals;24;504
+10553;30/05/1997;03/06/1997;Wartian Herkku;Finland;Gorgonzola Telino;Dairy Products;30;375
+10553;30/05/1997;03/06/1997;Wartian Herkku;Finland;Steeleye Stout;Beverages;6;108
+10554;30/05/1997;05/06/1997;Ottilies Käseladen;Germany;Pavlova;Confections;30;523
+10554;30/05/1997;05/06/1997;Ottilies Käseladen;Germany;Tunnbröd;Grains/Cereals;20;179
+10554;30/05/1997;05/06/1997;Ottilies Käseladen;Germany;Tarte au sucre;Confections;20;985
+10554;30/05/1997;05/06/1997;Ottilies Käseladen;Germany;Original Frankfurter grüne Soße;Condiments;10;129
+10555;02/06/1997;04/06/1997;Save-a-lot Markets;USA;Tofu;Produce;30;697
+10555;02/06/1997;04/06/1997;Save-a-lot Markets;USA;Teatime Chocolate Biscuits;Confections;35;321
+10555;02/06/1997;04/06/1997;Save-a-lot Markets;USA;Guaraná Fantástica;Beverages;18;80
+10555;02/06/1997;04/06/1997;Save-a-lot Markets;USA;Manjimup Dried Apples;Produce;20;1059
+10555;02/06/1997;04/06/1997;Save-a-lot Markets;USA;Gnocchi di nonna Alice;Grains/Cereals;40;1519
+10556;03/06/1997;13/06/1997;Simons bistro;Denmark;Mozzarella di Giovanni;Dairy Products;24;835
+10557;03/06/1997;06/06/1997;Lehmanns Marktstand;Germany;Wimmers gute Semmelknödel;Grains/Cereals;30;997
+10557;03/06/1997;06/06/1997;Lehmanns Marktstand;Germany;Rhönbräu Klosterbier;Beverages;20;155
+10558;04/06/1997;10/06/1997;Around the Horn;UK;Zaanse koeken;Confections;25;237
+10558;04/06/1997;10/06/1997;Around the Horn;UK;Manjimup Dried Apples;Produce;20;1060
+10558;04/06/1997;10/06/1997;Around the Horn;UK;Filo Mix;Grains/Cereals;30;210
+10558;04/06/1997;10/06/1997;Around the Horn;UK;Perth Pasties;Meat/Poultry;18;590
+10558;04/06/1997;10/06/1997;Around the Horn;UK;Röd Kaviar;Seafood;3;45
+10559;05/06/1997;13/06/1997;Blondesddsl père et fils;France;Jack's New England Clam Chowder;Seafood;12;115
+10559;05/06/1997;13/06/1997;Blondesddsl père et fils;France;Pâté chinois;Meat/Poultry;18;431
+10560;06/06/1997;09/06/1997;Frankenversand;Germany;Nord-Ost Matjeshering;Seafood;20;517
+10560;06/06/1997;09/06/1997;Frankenversand;Germany;Tarte au sucre;Confections;15;739
+10561;06/06/1997;09/06/1997;Folk och fä HB;Sweden;Gula Malacca;Condiments;10;194
+10561;06/06/1997;09/06/1997;Folk och fä HB;Sweden;Manjimup Dried Apples;Produce;50;2650
+10562;09/06/1997;12/06/1997;Reggiani Caseifici;Italy;Geitost;Dairy Products;20;49
+10562;09/06/1997;12/06/1997;Reggiani Caseifici;Italy;Tarte au sucre;Confections;10;492
+10563;10/06/1997;24/06/1997;Ricardo Adocicados;Brazil;Inlagd Sill;Seafood;25;475
+10563;10/06/1997;24/06/1997;Ricardo Adocicados;Brazil;Filo Mix;Grains/Cereals;70;490
+10564;10/06/1997;16/06/1997;Rattlesnake Canyon Grocery;USA;Alice Mutton;Meat/Poultry;16;623
+10564;10/06/1997;16/06/1997;Rattlesnake Canyon Grocery;USA;Gorgonzola Telino;Dairy Products;6;74
+10564;10/06/1997;16/06/1997;Rattlesnake Canyon Grocery;USA;Pâté chinois;Meat/Poultry;25;599
+10565;11/06/1997;18/06/1997;Mère Paillarde;Canada;Guaraná Fantástica;Beverages;25;112
+10565;11/06/1997;18/06/1997;Mère Paillarde;Canada;Wimmers gute Semmelknödel;Grains/Cereals;18;598
+10566;12/06/1997;18/06/1997;Blondesddsl père et fils;France;Queso Cabrales;Dairy Products;35;734
+10566;12/06/1997;18/06/1997;Blondesddsl père et fils;France;Carnarvon Tigers;Seafood;18;1124
+10566;12/06/1997;18/06/1997;Blondesddsl père et fils;France;Lakkalikööri;Beverages;10;180
+10567;12/06/1997;17/06/1997;Hungry Owl All-Night Grocers;Ireland;Gorgonzola Telino;Dairy Products;60;749
+10567;12/06/1997;17/06/1997;Hungry Owl All-Night Grocers;Ireland;Manjimup Dried Apples;Produce;3;159
+10567;12/06/1997;17/06/1997;Hungry Owl All-Night Grocers;Ireland;Raclette Courdavault;Dairy Products;40;2199
+10568;13/06/1997;09/07/1997;Galería del gastrónomo;Spain;Ikura;Seafood;5;155
+10569;16/06/1997;11/07/1997;Rattlesnake Canyon Grocery;USA;Gorgonzola Telino;Dairy Products;35;437
+10569;16/06/1997;11/07/1997;Rattlesnake Canyon Grocery;USA;Lakkalikööri;Beverages;30;540
+10570;17/06/1997;19/06/1997;Mère Paillarde;Canada;Queso Cabrales;Dairy Products;15;314
+10570;17/06/1997;19/06/1997;Mère Paillarde;Canada;Gnocchi di nonna Alice;Grains/Cereals;60;2279
+10571;17/06/1997;04/07/1997;Ernst Handel;Austria;Tofu;Produce;11;255
+10571;17/06/1997;04/07/1997;Ernst Handel;Austria;Singaporean Hokkien Fried Mee;Grains/Cereals;28;391
+10572;18/06/1997;25/06/1997;Berglunds snabbköp;Sweden;Pavlova;Confections;12;209
+10572;18/06/1997;25/06/1997;Berglunds snabbköp;Sweden;Mascarpone Fabioli;Dairy Products;10;319
+10572;18/06/1997;25/06/1997;Berglunds snabbköp;Sweden;Boston Crab Meat;Seafood;50;920
+10572;18/06/1997;25/06/1997;Berglunds snabbköp;Sweden;Rhönbräu Klosterbier;Beverages;15;116
+10573;19/06/1997;20/06/1997;Antonio Moreno Taquería;Mexico;Alice Mutton;Meat/Poultry;18;702
+10573;19/06/1997;20/06/1997;Antonio Moreno Taquería;Mexico;Sasquatch Ale;Beverages;40;560
+10573;19/06/1997;20/06/1997;Antonio Moreno Taquería;Mexico;Perth Pasties;Meat/Poultry;25;820
+10574;19/06/1997;30/06/1997;Trail's Head Gourmet Provisioners;USA;Geitost;Dairy Products;14;35
+10574;19/06/1997;30/06/1997;Trail's Head Gourmet Provisioners;USA;Boston Crab Meat;Seafood;2;36
+10574;19/06/1997;30/06/1997;Trail's Head Gourmet Provisioners;USA;Tarte au sucre;Confections;10;493
+10574;19/06/1997;30/06/1997;Trail's Head Gourmet Provisioners;USA;Wimmers gute Semmelknödel;Grains/Cereals;6;199
+10575;20/06/1997;30/06/1997;Morgenstern Gesundkost;Germany;Raclette Courdavault;Dairy Products;12;660
+10575;20/06/1997;30/06/1997;Morgenstern Gesundkost;Germany;Vegie-spread;Condiments;6;263
+10575;20/06/1997;30/06/1997;Morgenstern Gesundkost;Germany;Mozzarella di Giovanni;Dairy Products;30;1044
+10575;20/06/1997;30/06/1997;Morgenstern Gesundkost;Germany;Lakkalikööri;Beverages;10;180
+10576;23/06/1997;30/06/1997;Tortuga Restaurante;Mexico;Chai;Beverages;10;180
+10576;23/06/1997;30/06/1997;Tortuga Restaurante;Mexico;Gorgonzola Telino;Dairy Products;20;250
+10576;23/06/1997;30/06/1997;Tortuga Restaurante;Mexico;Gula Malacca;Condiments;21;408
+10577;23/06/1997;30/06/1997;Trail's Head Gourmet Provisioners;USA;Chartreuse verte;Beverages;10;180
+10577;23/06/1997;30/06/1997;Trail's Head Gourmet Provisioners;USA;Rhönbräu Klosterbier;Beverages;20;155
+10577;23/06/1997;30/06/1997;Trail's Head Gourmet Provisioners;USA;Original Frankfurter grüne Soße;Condiments;18;234
+10578;24/06/1997;25/07/1997;B's Beverages;UK;Steeleye Stout;Beverages;20;360
+10578;24/06/1997;25/07/1997;B's Beverages;UK;Ravioli Angelo;Grains/Cereals;6;117
+10579;25/06/1997;04/07/1997;Let's Stop N Shop;USA;Genen Shouyu;Condiments;10;155
+10579;25/06/1997;04/07/1997;Let's Stop N Shop;USA;Rhönbräu Klosterbier;Beverages;21;162
+10580;26/06/1997;01/07/1997;Ottilies Käseladen;Germany;Tofu;Produce;15;348
+10580;26/06/1997;01/07/1997;Ottilies Käseladen;Germany;Jack's New England Clam Chowder;Seafood;9;86
+10580;26/06/1997;01/07/1997;Ottilies Käseladen;Germany;Louisiana Fiery Hot Pepper Sauce;Condiments;30;631
+10581;26/06/1997;02/07/1997;Familia Arquibaldo;Brazil;Rhönbräu Klosterbier;Beverages;50;387
+10582;27/06/1997;14/07/1997;Blauer See Delikatessen;Germany;Ravioli Angelo;Grains/Cereals;4;78
+10582;27/06/1997;14/07/1997;Blauer See Delikatessen;Germany;Lakkalikööri;Beverages;14;252
+10583;30/06/1997;04/07/1997;Wartian Herkku;Finland;Thüringer Rostbratwurst;Meat/Poultry;10;1237
+10583;30/06/1997;04/07/1997;Wartian Herkku;Finland;Camembert Pierrot;Dairy Products;24;815
+10583;30/06/1997;04/07/1997;Wartian Herkku;Finland;Gudbrandsdalsost;Dairy Products;10;359
+10584;30/06/1997;04/07/1997;Blondesddsl père et fils;France;Gorgonzola Telino;Dairy Products;50;624
+10585;01/07/1997;10/07/1997;Wellington Importadora;Brazil;Zaanse koeken;Confections;15;142
+10586;02/07/1997;09/07/1997;Reggiani Caseifici;Italy;Filo Mix;Grains/Cereals;4;27
+10587;02/07/1997;09/07/1997;Que Delícia;Brazil;Gumbär Gummibärchen;Confections;6;187
+10587;02/07/1997;09/07/1997;Que Delícia;Brazil;Steeleye Stout;Beverages;20;360
+10587;02/07/1997;09/07/1997;Que Delícia;Brazil;Original Frankfurter grüne Soße;Condiments;20;260
+10588;03/07/1997;10/07/1997;QUICK-Stop;Germany;Carnarvon Tigers;Seafood;40;2499
+10588;03/07/1997;10/07/1997;QUICK-Stop;Germany;Singaporean Hokkien Fried Mee;Grains/Cereals;100;1399
+10589;04/07/1997;14/07/1997;Great Lakes Food Market;USA;Steeleye Stout;Beverages;4;72
+10590;07/07/1997;14/07/1997;Mère Paillarde;Canada;Chai;Beverages;20;360
+10590;07/07/1997;14/07/1997;Mère Paillarde;Canada;Original Frankfurter grüne Soße;Condiments;60;779
+10591;07/07/1997;16/07/1997;Vaffeljernet;Denmark;Aniseed Syrup;Condiments;14;140
+10591;07/07/1997;16/07/1997;Vaffeljernet;Denmark;Uncle Bob's Organic Dried Pears;Produce;10;300
+10591;07/07/1997;16/07/1997;Vaffeljernet;Denmark;Tourtière;Meat/Poultry;50;372
+10592;08/07/1997;16/07/1997;Lehmanns Marktstand;Germany;Genen Shouyu;Condiments;25;387
+10592;08/07/1997;16/07/1997;Lehmanns Marktstand;Germany;Gumbär Gummibärchen;Confections;5;156
+10593;09/07/1997;13/08/1997;Lehmanns Marktstand;Germany;Sir Rodney's Marmalade;Confections;21;1700
+10593;09/07/1997;13/08/1997;Lehmanns Marktstand;Germany;Gudbrandsdalsost;Dairy Products;20;719
+10593;09/07/1997;13/08/1997;Lehmanns Marktstand;Germany;Lakkalikööri;Beverages;4;71
+10594;09/07/1997;16/07/1997;Old World Delicatessen;USA;Filo Mix;Grains/Cereals;24;168
+10594;09/07/1997;16/07/1997;Old World Delicatessen;USA;Escargots de Bourgogne;Seafood;30;397
+10595;10/07/1997;14/07/1997;Ernst Handel;Austria;Steeleye Stout;Beverages;30;539
+10595;10/07/1997;14/07/1997;Ernst Handel;Austria;Sirop d'érable;Condiments;120;3419
+10595;10/07/1997;14/07/1997;Ernst Handel;Austria;Gudbrandsdalsost;Dairy Products;65;2339
+10596;11/07/1997;12/08/1997;White Clover Markets;USA;Gnocchi di nonna Alice;Grains/Cereals;5;189
+10596;11/07/1997;12/08/1997;White Clover Markets;USA;Vegie-spread;Condiments;24;1053
+10596;11/07/1997;12/08/1997;White Clover Markets;USA;Rhönbräu Klosterbier;Beverages;30;232
+10597;11/07/1997;18/07/1997;Piccolo und mehr;Austria;Guaraná Fantástica;Beverages;35;157
+10597;11/07/1997;18/07/1997;Piccolo und mehr;Austria;Ravioli Angelo;Grains/Cereals;20;390
+10597;11/07/1997;18/07/1997;Piccolo und mehr;Austria;Louisiana Fiery Hot Pepper Sauce;Condiments;12;252
+10598;14/07/1997;18/07/1997;Rattlesnake Canyon Grocery;USA;Schoggi Schokolade;Confections;50;2195
+10598;14/07/1997;18/07/1997;Rattlesnake Canyon Grocery;USA;Flotemysost;Dairy Products;9;193
+10599;15/07/1997;21/07/1997;B's Beverages;UK;Tarte au sucre;Confections;10;493
+10600;16/07/1997;21/07/1997;Hungry Coyote Import Store;USA;Tourtière;Meat/Poultry;4;29
+10600;16/07/1997;21/07/1997;Hungry Coyote Import Store;USA;Röd Kaviar;Seafood;30;450
+10601;16/07/1997;22/07/1997;HILARION-Abastos;Venezuela;Konbu;Seafood;60;360
+10601;16/07/1997;22/07/1997;HILARION-Abastos;Venezuela;Raclette Courdavault;Dairy Products;35;1925
+10602;17/07/1997;22/07/1997;Vaffeljernet;Denmark;Original Frankfurter grüne Soße;Condiments;5;64
+10603;18/07/1997;08/08/1997;Save-a-lot Markets;USA;Gustaf's Knäckebröd;Grains/Cereals;48;1008
+10603;18/07/1997;08/08/1997;Save-a-lot Markets;USA;Maxilaku;Confections;25;499
+10604;18/07/1997;29/07/1997;Furia Bacalhau e Frutos do Mar;Portugal;Chocolade;Confections;6;76
+10604;18/07/1997;29/07/1997;Furia Bacalhau e Frutos do Mar;Portugal;Lakkalikööri;Beverages;10;179
+10605;21/07/1997;29/07/1997;Mère Paillarde;Canada;Pavlova;Confections;30;523
+10605;21/07/1997;29/07/1997;Mère Paillarde;Canada;Raclette Courdavault;Dairy Products;20;1099
+10605;21/07/1997;29/07/1997;Mère Paillarde;Canada;Camembert Pierrot;Dairy Products;70;2379
+10605;21/07/1997;29/07/1997;Mère Paillarde;Canada;Flotemysost;Dairy Products;15;322
+10606;22/07/1997;31/07/1997;Tradição Hipermercados;Brazil;Chef Anton's Cajun Seasoning;Condiments;20;439
+10606;22/07/1997;31/07/1997;Tradição Hipermercados;Brazil;Pâté chinois;Meat/Poultry;20;479
+10606;22/07/1997;31/07/1997;Tradição Hipermercados;Brazil;Tarte au sucre;Confections;10;492
+10607;22/07/1997;25/07/1997;Save-a-lot Markets;USA;Uncle Bob's Organic Dried Pears;Produce;45;1350
+10607;22/07/1997;25/07/1997;Save-a-lot Markets;USA;Alice Mutton;Meat/Poultry;100;3900
+10607;22/07/1997;25/07/1997;Save-a-lot Markets;USA;Geitost;Dairy Products;14;35
+10607;22/07/1997;25/07/1997;Save-a-lot Markets;USA;Boston Crab Meat;Seafood;42;772
+10607;22/07/1997;25/07/1997;Save-a-lot Markets;USA;Mozzarella di Giovanni;Dairy Products;12;417
+10608;23/07/1997;01/08/1997;Toms Spezialitäten;Germany;Gnocchi di nonna Alice;Grains/Cereals;28;1064
+10609;24/07/1997;30/07/1997;Du monde entier;France;Chai;Beverages;3;54
+10609;24/07/1997;30/07/1997;Du monde entier;France;Ikura;Seafood;10;310
+10609;24/07/1997;30/07/1997;Du monde entier;France;Sir Rodney's Scones;Confections;6;60
+10610;25/07/1997;06/08/1997;La maison d'Asie;France;Inlagd Sill;Seafood;21;398
+10611;25/07/1997;01/08/1997;Wolski  Zajazd;Poland;Chai;Beverages;6;108
+10611;25/07/1997;01/08/1997;Wolski  Zajazd;Poland;Chang;Beverages;10;190
+10611;25/07/1997;01/08/1997;Wolski  Zajazd;Poland;Camembert Pierrot;Dairy Products;15;510
+10612;28/07/1997;01/08/1997;Save-a-lot Markets;USA;Ikura;Seafood;70;2170
+10612;28/07/1997;01/08/1997;Save-a-lot Markets;USA;Inlagd Sill;Seafood;55;1045
+10612;28/07/1997;01/08/1997;Save-a-lot Markets;USA;Maxilaku;Confections;18;360
+10612;28/07/1997;01/08/1997;Save-a-lot Markets;USA;Camembert Pierrot;Dairy Products;40;1360
+10612;28/07/1997;01/08/1997;Save-a-lot Markets;USA;Lakkalikööri;Beverages;80;1440
+10613;29/07/1997;01/08/1997;HILARION-Abastos;Venezuela;Konbu;Seafood;8;47
+10613;29/07/1997;01/08/1997;HILARION-Abastos;Venezuela;Rhönbräu Klosterbier;Beverages;40;310
+10614;29/07/1997;01/08/1997;Blauer See Delikatessen;Germany;Queso Cabrales;Dairy Products;14;294
+10614;29/07/1997;01/08/1997;Blauer See Delikatessen;Germany;Sir Rodney's Scones;Confections;8;80
+10614;29/07/1997;01/08/1997;Blauer See Delikatessen;Germany;Chartreuse verte;Beverages;5;90
+10615;30/07/1997;06/08/1997;Wilman Kala;Finland;Pâté chinois;Meat/Poultry;5;120
+10616;31/07/1997;05/08/1997;Great Lakes Food Market;USA;Côte de Blaye;Beverages;15;3952
+10616;31/07/1997;05/08/1997;Great Lakes Food Market;USA;Gnocchi di nonna Alice;Grains/Cereals;14;532
+10616;31/07/1997;05/08/1997;Great Lakes Food Market;USA;Outback Lager;Beverages;15;224
+10616;31/07/1997;05/08/1997;Great Lakes Food Market;USA;Flotemysost;Dairy Products;15;322
+10617;31/07/1997;04/08/1997;Great Lakes Food Market;USA;Raclette Courdavault;Dairy Products;30;1649
+10618;01/08/1997;08/08/1997;Mère Paillarde;Canada;Grandma's Boysenberry Spread;Condiments;70;1750
+10618;01/08/1997;08/08/1997;Mère Paillarde;Canada;Gnocchi di nonna Alice;Grains/Cereals;20;760
+10618;01/08/1997;08/08/1997;Mère Paillarde;Canada;Scottish Longbreads;Confections;15;187
+10619;04/08/1997;07/08/1997;Mère Paillarde;Canada;Sir Rodney's Scones;Confections;42;420
+10619;04/08/1997;07/08/1997;Mère Paillarde;Canada;Gustaf's Knäckebröd;Grains/Cereals;40;840
+10620;05/08/1997;14/08/1997;Laughing Bacchus Wine Cellars;Canada;Guaraná Fantástica;Beverages;5;22
+10620;05/08/1997;14/08/1997;Laughing Bacchus Wine Cellars;Canada;Filo Mix;Grains/Cereals;5;35
+10621;05/08/1997;11/08/1997;Island Trading;UK;Teatime Chocolate Biscuits;Confections;5;46
+10621;05/08/1997;11/08/1997;Island Trading;UK;Tunnbröd;Grains/Cereals;10;90
+10621;05/08/1997;11/08/1997;Island Trading;UK;Outback Lager;Beverages;20;300
+10621;05/08/1997;11/08/1997;Island Trading;UK;Flotemysost;Dairy Products;15;322
+10622;06/08/1997;11/08/1997;Ricardo Adocicados;Brazil;Chang;Beverages;20;380
+10622;06/08/1997;11/08/1997;Ricardo Adocicados;Brazil;Scottish Longbreads;Confections;18;224
+10623;07/08/1997;12/08/1997;Frankenversand;Germany;Tofu;Produce;21;488
+10623;07/08/1997;12/08/1997;Frankenversand;Germany;Teatime Chocolate Biscuits;Confections;15;137
+10623;07/08/1997;12/08/1997;Frankenversand;Germany;Sir Rodney's Scones;Confections;25;249
+10623;07/08/1997;12/08/1997;Frankenversand;Germany;Guaraná Fantástica;Beverages;3;13
+10623;07/08/1997;12/08/1997;Frankenversand;Germany;Steeleye Stout;Beverages;30;539
+10624;07/08/1997;19/08/1997;The Cracker Box;USA;Rössle Sauerkraut;Produce;10;456
+10624;07/08/1997;19/08/1997;The Cracker Box;USA;Thüringer Rostbratwurst;Meat/Poultry;6;742
+10624;07/08/1997;19/08/1997;The Cracker Box;USA;Gula Malacca;Condiments;10;194
+10625;08/08/1997;14/08/1997;Ana Trujillo Emparedados y helados;Mexico;Tofu;Produce;3;69
+10625;08/08/1997;14/08/1997;Ana Trujillo Emparedados y helados;Mexico;Singaporean Hokkien Fried Mee;Grains/Cereals;5;70
+10625;08/08/1997;14/08/1997;Ana Trujillo Emparedados y helados;Mexico;Camembert Pierrot;Dairy Products;10;340
+10626;11/08/1997;20/08/1997;Berglunds snabbköp;Sweden;Perth Pasties;Meat/Poultry;12;393
+10626;11/08/1997;20/08/1997;Berglunds snabbköp;Sweden;Camembert Pierrot;Dairy Products;20;680
+10626;11/08/1997;20/08/1997;Berglunds snabbköp;Sweden;Flotemysost;Dairy Products;20;430
+10627;11/08/1997;21/08/1997;Save-a-lot Markets;USA;Tarte au sucre;Confections;15;739
+10627;11/08/1997;21/08/1997;Save-a-lot Markets;USA;Röd Kaviar;Seafood;35;524
+10628;12/08/1997;20/08/1997;Blondesddsl père et fils;France;Chai;Beverages;25;450
+10629;12/08/1997;20/08/1997;Godos Cocina Típica;Spain;Thüringer Rostbratwurst;Meat/Poultry;20;2475
+10629;12/08/1997;20/08/1997;Godos Cocina Típica;Spain;Wimmers gute Semmelknödel;Grains/Cereals;9;299
+10630;13/08/1997;19/08/1997;Königlich Essen;Germany;Pâté chinois;Meat/Poultry;12;287
+10630;13/08/1997;19/08/1997;Königlich Essen;Germany;Lakkalikööri;Beverages;35;630
+10631;14/08/1997;15/08/1997;La maison d'Asie;France;Rhönbräu Klosterbier;Beverages;8;61
+10632;14/08/1997;19/08/1997;Die Wandernde Kuh;Germany;Chang;Beverages;30;569
+10632;14/08/1997;19/08/1997;Die Wandernde Kuh;Germany;Geitost;Dairy Products;20;49
+10633;15/08/1997;18/08/1997;Ernst Handel;Austria;Queso Manchego La Pastora;Dairy Products;36;1367
+10633;15/08/1997;18/08/1997;Ernst Handel;Austria;Konbu;Seafood;13;77
+10633;15/08/1997;18/08/1997;Ernst Handel;Austria;Gumbär Gummibärchen;Confections;35;1092
+10633;15/08/1997;18/08/1997;Ernst Handel;Austria;Tarte au sucre;Confections;80;3943
+10634;15/08/1997;21/08/1997;Folies gourmandes;France;Uncle Bob's Organic Dried Pears;Produce;35;1050
+10634;15/08/1997;21/08/1997;Folies gourmandes;France;Carnarvon Tigers;Seafood;50;3125
+10634;15/08/1997;21/08/1997;Folies gourmandes;France;Manjimup Dried Apples;Produce;15;795
+10634;15/08/1997;21/08/1997;Folies gourmandes;France;Rhönbräu Klosterbier;Beverages;2;15
+10635;18/08/1997;21/08/1997;Magazzini Alimentari Riuniti;Italy;Chef Anton's Cajun Seasoning;Condiments;10;219
+10635;18/08/1997;21/08/1997;Magazzini Alimentari Riuniti;Italy;Chef Anton's Gumbo Mix;Condiments;15;320
+10635;18/08/1997;21/08/1997;Magazzini Alimentari Riuniti;Italy;Gustaf's Knäckebröd;Grains/Cereals;40;840
+10636;19/08/1997;26/08/1997;Wartian Herkku;Finland;Chef Anton's Cajun Seasoning;Condiments;25;550
+10636;19/08/1997;26/08/1997;Wartian Herkku;Finland;Escargots de Bourgogne;Seafood;6;79
+10637;19/08/1997;26/08/1997;Queen Cozinha;Brazil;Queso Cabrales;Dairy Products;10;210
+10637;19/08/1997;26/08/1997;Queen Cozinha;Brazil;Valkoinen suklaa;Confections;25;406
+10637;19/08/1997;26/08/1997;Queen Cozinha;Brazil;Gnocchi di nonna Alice;Grains/Cereals;60;2279
+10638;20/08/1997;01/09/1997;LINO-Delicateses;Venezuela;Rogede sild;Seafood;20;190
+10638;20/08/1997;01/09/1997;LINO-Delicateses;Venezuela;Louisiana Fiery Hot Pepper Sauce;Condiments;21;442
+10638;20/08/1997;01/09/1997;LINO-Delicateses;Venezuela;Mozzarella di Giovanni;Dairy Products;60;2088
+10639;20/08/1997;27/08/1997;Santé Gourmet;Norway;Carnarvon Tigers;Seafood;8;500
+10640;21/08/1997;28/08/1997;Die Wandernde Kuh;Germany;Gudbrandsdalsost;Dairy Products;20;719
+10640;21/08/1997;28/08/1997;Die Wandernde Kuh;Germany;Outback Lager;Beverages;15;224
+10641;22/08/1997;26/08/1997;HILARION-Abastos;Venezuela;Chang;Beverages;50;950
+10641;22/08/1997;26/08/1997;HILARION-Abastos;Venezuela;Boston Crab Meat;Seafood;60;1104
+10642;22/08/1997;05/09/1997;Simons bistro;Denmark;Sir Rodney's Scones;Confections;30;299
+10642;22/08/1997;05/09/1997;Simons bistro;Denmark;Sirop d'érable;Condiments;20;569
+10643;25/08/1997;02/09/1997;Alfreds Futterkiste;Germany;Rössle Sauerkraut;Produce;15;683
+10643;25/08/1997;02/09/1997;Alfreds Futterkiste;Germany;Chartreuse verte;Beverages;21;377
+10643;25/08/1997;02/09/1997;Alfreds Futterkiste;Germany;Spegesild;Seafood;2;23
+10644;25/08/1997;01/09/1997;Wellington Importadora;Brazil;Carnarvon Tigers;Seafood;4;249
+10644;25/08/1997;01/09/1997;Wellington Importadora;Brazil;Ipoh Coffee;Beverages;20;920
+10644;25/08/1997;01/09/1997;Wellington Importadora;Brazil;Spegesild;Seafood;21;251
+10645;26/08/1997;02/09/1997;Hanari Carnes;Brazil;Carnarvon Tigers;Seafood;20;1250
+10645;26/08/1997;02/09/1997;Hanari Carnes;Brazil;Inlagd Sill;Seafood;15;285
+10646;27/08/1997;03/09/1997;Hungry Owl All-Night Grocers;Ireland;Chai;Beverages;15;269
+10646;27/08/1997;03/09/1997;Hungry Owl All-Night Grocers;Ireland;Ikura;Seafood;18;557
+10646;27/08/1997;03/09/1997;Hungry Owl All-Night Grocers;Ireland;Flotemysost;Dairy Products;30;644
+10646;27/08/1997;03/09/1997;Hungry Owl All-Night Grocers;Ireland;Original Frankfurter grüne Soße;Condiments;35;454
+10647;27/08/1997;03/09/1997;Que Delícia;Brazil;Teatime Chocolate Biscuits;Confections;30;276
+10647;27/08/1997;03/09/1997;Que Delícia;Brazil;Chartreuse verte;Beverages;20;360
+10648;28/08/1997;09/09/1997;Ricardo Adocicados;Brazil;Gustaf's Knäckebröd;Grains/Cereals;15;315
+10648;28/08/1997;09/09/1997;Ricardo Adocicados;Brazil;Guaraná Fantástica;Beverages;15;67
+10649;28/08/1997;29/08/1997;Maison Dewey;Belgium;Rössle Sauerkraut;Produce;20;912
+10649;28/08/1997;29/08/1997;Maison Dewey;Belgium;Mozzarella di Giovanni;Dairy Products;15;522
+10650;29/08/1997;03/09/1997;Familia Arquibaldo;Brazil;Nord-Ost Matjeshering;Seafood;30;776
+10650;29/08/1997;03/09/1997;Familia Arquibaldo;Brazil;Perth Pasties;Meat/Poultry;25;819
+10650;29/08/1997;03/09/1997;Familia Arquibaldo;Brazil;Tourtière;Meat/Poultry;30;223
+10651;01/09/1997;11/09/1997;Die Wandernde Kuh;Germany;Teatime Chocolate Biscuits;Confections;12;110
+10651;01/09/1997;11/09/1997;Die Wandernde Kuh;Germany;Gustaf's Knäckebröd;Grains/Cereals;20;419
+10652;01/09/1997;08/09/1997;Gourmet Lanchonetes;Brazil;Nord-Ost Matjeshering;Seafood;2;51
+10652;01/09/1997;08/09/1997;Gourmet Lanchonetes;Brazil;Singaporean Hokkien Fried Mee;Grains/Cereals;20;280
+10653;02/09/1997;19/09/1997;Frankenversand;Germany;Pavlova;Confections;30;523
+10653;02/09/1997;19/09/1997;Frankenversand;Germany;Camembert Pierrot;Dairy Products;20;679
+10654;02/09/1997;11/09/1997;Berglunds snabbköp;Sweden;Chef Anton's Cajun Seasoning;Condiments;12;263
+10654;02/09/1997;11/09/1997;Berglunds snabbköp;Sweden;Chartreuse verte;Beverages;20;359
+10654;02/09/1997;11/09/1997;Berglunds snabbköp;Sweden;Tourtière;Meat/Poultry;6;44
+10655;03/09/1997;11/09/1997;Reggiani Caseifici;Italy;Jack's New England Clam Chowder;Seafood;20;192
+10656;04/09/1997;10/09/1997;Great Lakes Food Market;USA;Tofu;Produce;3;69
+10656;04/09/1997;10/09/1997;Great Lakes Food Market;USA;Gula Malacca;Condiments;28;544
+10656;04/09/1997;10/09/1997;Great Lakes Food Market;USA;Zaanse koeken;Confections;6;56
+10657;04/09/1997;15/09/1997;Save-a-lot Markets;USA;Genen Shouyu;Condiments;50;775
+10657;04/09/1997;15/09/1997;Save-a-lot Markets;USA;Jack's New England Clam Chowder;Seafood;24;231
+10657;04/09/1997;15/09/1997;Save-a-lot Markets;USA;Spegesild;Seafood;45;540
+10657;04/09/1997;15/09/1997;Save-a-lot Markets;USA;Zaanse koeken;Confections;10;95
+10657;04/09/1997;15/09/1997;Save-a-lot Markets;USA;Gnocchi di nonna Alice;Grains/Cereals;45;1710
+10657;04/09/1997;15/09/1997;Save-a-lot Markets;USA;Camembert Pierrot;Dairy Products;30;1020
+10658;05/09/1997;08/09/1997;QUICK-Stop;Germany;Sir Rodney's Scones;Confections;60;600
+10658;05/09/1997;08/09/1997;QUICK-Stop;Germany;Boston Crab Meat;Seafood;70;1287
+10658;05/09/1997;08/09/1997;QUICK-Stop;Germany;Camembert Pierrot;Dairy Products;55;1869
+10658;05/09/1997;08/09/1997;QUICK-Stop;Germany;Original Frankfurter grüne Soße;Condiments;70;909
+10659;05/09/1997;10/09/1997;Queen Cozinha;Brazil;Gorgonzola Telino;Dairy Products;20;249
+10659;05/09/1997;10/09/1997;Queen Cozinha;Brazil;Boston Crab Meat;Seafood;24;441
+10659;05/09/1997;10/09/1997;Queen Cozinha;Brazil;Outback Lager;Beverages;40;599
+10660;08/09/1997;15/10/1997;Hungry Coyote Import Store;USA;Sir Rodney's Marmalade;Confections;21;1701
+10661;09/09/1997;15/09/1997;Hungry Owl All-Night Grocers;Ireland;Chartreuse verte;Beverages;3;53
+10661;09/09/1997;15/09/1997;Hungry Owl All-Night Grocers;Ireland;Escargots de Bourgogne;Seafood;49;649
+10662;09/09/1997;18/09/1997;Lonesome Pine Restaurant;USA;Scottish Longbreads;Confections;10;125
+10663;10/09/1997;03/10/1997;Bon app';France;Boston Crab Meat;Seafood;30;551
+10663;10/09/1997;03/10/1997;Bon app';France;Singaporean Hokkien Fried Mee;Grains/Cereals;30;419
+10663;10/09/1997;03/10/1997;Bon app';France;Manjimup Dried Apples;Produce;20;1059
+10664;10/09/1997;19/09/1997;Furia Bacalhau e Frutos do Mar;Portugal;Ikura;Seafood;24;743
+10664;10/09/1997;19/09/1997;Furia Bacalhau e Frutos do Mar;Portugal;Gnocchi di nonna Alice;Grains/Cereals;12;455
+10664;10/09/1997;19/09/1997;Furia Bacalhau e Frutos do Mar;Portugal;Louisiana Fiery Hot Pepper Sauce;Condiments;15;315
+10665;11/09/1997;17/09/1997;Lonesome Pine Restaurant;USA;Manjimup Dried Apples;Produce;20;1060
+10665;11/09/1997;17/09/1997;Lonesome Pine Restaurant;USA;Raclette Courdavault;Dairy Products;1;55
+10665;11/09/1997;17/09/1997;Lonesome Pine Restaurant;USA;Lakkalikööri;Beverages;10;180
+10666;12/09/1997;22/09/1997;Richter Supermarkt;Switzerland;Thüringer Rostbratwurst;Meat/Poultry;36;4456
+10666;12/09/1997;22/09/1997;Richter Supermarkt;Switzerland;Louisiana Fiery Hot Pepper Sauce;Condiments;10;210
+10667;12/09/1997;19/09/1997;Ernst Handel;Austria;Gudbrandsdalsost;Dairy Products;45;1619
+10667;12/09/1997;19/09/1997;Ernst Handel;Austria;Flotemysost;Dairy Products;14;300
+10668;15/09/1997;23/09/1997;Die Wandernde Kuh;Germany;Gorgonzola Telino;Dairy Products;8;99
+10668;15/09/1997;23/09/1997;Die Wandernde Kuh;Germany;Pâté chinois;Meat/Poultry;4;95
+10668;15/09/1997;23/09/1997;Die Wandernde Kuh;Germany;Wimmers gute Semmelknödel;Grains/Cereals;15;498
+10669;15/09/1997;22/09/1997;Simons bistro;Denmark;Inlagd Sill;Seafood;30;570
+10670;16/09/1997;18/09/1997;Frankenversand;Germany;Tunnbröd;Grains/Cereals;32;288
+10670;16/09/1997;18/09/1997;Frankenversand;Germany;Spegesild;Seafood;60;720
+10670;16/09/1997;18/09/1997;Frankenversand;Germany;Laughing Lumberjack Lager;Beverages;25;350
+10670;16/09/1997;18/09/1997;Frankenversand;Germany;Röd Kaviar;Seafood;50;750
+10670;16/09/1997;18/09/1997;Frankenversand;Germany;Rhönbräu Klosterbier;Beverages;25;193
+10671;17/09/1997;24/09/1997;France restauration;France;Pavlova;Confections;10;174
+10671;17/09/1997;24/09/1997;France restauration;France;Tarte au sucre;Confections;10;493
+10671;17/09/1997;24/09/1997;France restauration;France;Louisiana Fiery Hot Pepper Sauce;Condiments;12;252
+10672;17/09/1997;26/09/1997;Berglunds snabbköp;Sweden;Côte de Blaye;Beverages;15;3952
+10672;17/09/1997;26/09/1997;Berglunds snabbköp;Sweden;Flotemysost;Dairy Products;12;258
+10673;18/09/1997;19/09/1997;Wilman Kala;Finland;Pavlova;Confections;3;52
+10673;18/09/1997;19/09/1997;Wilman Kala;Finland;Singaporean Hokkien Fried Mee;Grains/Cereals;6;84
+10673;18/09/1997;19/09/1997;Wilman Kala;Finland;Ipoh Coffee;Beverages;6;276
+10674;18/09/1997;30/09/1997;Island Trading;UK;Tunnbröd;Grains/Cereals;5;45
+10675;19/09/1997;23/09/1997;Frankenversand;Germany;Tofu;Produce;30;697
+10675;19/09/1997;23/09/1997;Frankenversand;Germany;Perth Pasties;Meat/Poultry;10;328
+10675;19/09/1997;23/09/1997;Frankenversand;Germany;Escargots de Bourgogne;Seafood;30;397
+10676;22/09/1997;29/09/1997;Tortuga Restaurante;Mexico;Ikura;Seafood;2;62
+10676;22/09/1997;29/09/1997;Tortuga Restaurante;Mexico;Teatime Chocolate Biscuits;Confections;7;64
+10676;22/09/1997;29/09/1997;Tortuga Restaurante;Mexico;Gula Malacca;Condiments;21;408
+10677;22/09/1997;26/09/1997;Antonio Moreno Taquería;Mexico;Gumbär Gummibärchen;Confections;30;936
+10677;22/09/1997;26/09/1997;Antonio Moreno Taquería;Mexico;Geitost;Dairy Products;8;19
+10678;23/09/1997;16/10/1997;Save-a-lot Markets;USA;Queso Manchego La Pastora;Dairy Products;100;3800
+10678;23/09/1997;16/10/1997;Save-a-lot Markets;USA;Geitost;Dairy Products;30;75
+10678;23/09/1997;16/10/1997;Save-a-lot Markets;USA;Jack's New England Clam Chowder;Seafood;120;1158
+10678;23/09/1997;16/10/1997;Save-a-lot Markets;USA;Tourtière;Meat/Poultry;30;223
+10679;23/09/1997;30/09/1997;Blondesddsl père et fils;France;Raclette Courdavault;Dairy Products;12;660
+10680;24/09/1997;26/09/1997;Old World Delicatessen;USA;Pavlova;Confections;50;872
+10680;24/09/1997;26/09/1997;Old World Delicatessen;USA;Gorgonzola Telino;Dairy Products;20;249
+10680;24/09/1997;26/09/1997;Old World Delicatessen;USA;Singaporean Hokkien Fried Mee;Grains/Cereals;40;559
+10681;25/09/1997;30/09/1997;Great Lakes Food Market;USA;Teatime Chocolate Biscuits;Confections;30;275
+10681;25/09/1997;30/09/1997;Great Lakes Food Market;USA;Sir Rodney's Scones;Confections;12;119
+10681;25/09/1997;30/09/1997;Great Lakes Food Market;USA;Wimmers gute Semmelknödel;Grains/Cereals;28;931
+10682;25/09/1997;01/10/1997;Antonio Moreno Taquería;Mexico;Geitost;Dairy Products;30;75
+10682;25/09/1997;01/10/1997;Antonio Moreno Taquería;Mexico;Louisiana Hot Spiced Okra;Condiments;4;68
+10682;25/09/1997;01/10/1997;Antonio Moreno Taquería;Mexico;Rhönbräu Klosterbier;Beverages;30;232
+10683;26/09/1997;01/10/1997;Du monde entier;France;Filo Mix;Grains/Cereals;9;63
+10684;26/09/1997;30/09/1997;Ottilies Käseladen;Germany;Boston Crab Meat;Seafood;20;368
+10684;26/09/1997;30/09/1997;Ottilies Käseladen;Germany;Zaanse koeken;Confections;40;380
+10684;26/09/1997;30/09/1997;Ottilies Käseladen;Germany;Camembert Pierrot;Dairy Products;30;1020
+10685;29/09/1997;03/10/1997;Gourmet Lanchonetes;Brazil;Ikura;Seafood;20;620
+10685;29/09/1997;03/10/1997;Gourmet Lanchonetes;Brazil;Jack's New England Clam Chowder;Seafood;4;38
+10685;29/09/1997;03/10/1997;Gourmet Lanchonetes;Brazil;Zaanse koeken;Confections;15;142
+10686;30/09/1997;08/10/1997;Piccolo und mehr;Austria;Alice Mutton;Meat/Poultry;30;1169
+10686;30/09/1997;08/10/1997;Piccolo und mehr;Austria;Gumbär Gummibärchen;Confections;15;468
+10687;30/09/1997;30/10/1997;Hungry Owl All-Night Grocers;Ireland;Mishi Kobe Niku;Meat/Poultry;50;4849
+10687;30/09/1997;30/10/1997;Hungry Owl All-Night Grocers;Ireland;Thüringer Rostbratwurst;Meat/Poultry;10;1237
+10687;30/09/1997;30/10/1997;Hungry Owl All-Night Grocers;Ireland;Inlagd Sill;Seafood;6;113
+10688;01/10/1997;07/10/1997;Vaffeljernet;Denmark;Ikura;Seafood;18;557
+10688;01/10/1997;07/10/1997;Vaffeljernet;Denmark;Rössle Sauerkraut;Produce;60;2735
+10688;01/10/1997;07/10/1997;Vaffeljernet;Denmark;Sasquatch Ale;Beverages;14;196
+10689;01/10/1997;07/10/1997;Berglunds snabbköp;Sweden;Chai;Beverages;35;629
+10690;02/10/1997;03/10/1997;Hanari Carnes;Brazil;Gnocchi di nonna Alice;Grains/Cereals;20;759
+10690;02/10/1997;03/10/1997;Hanari Carnes;Brazil;Original Frankfurter grüne Soße;Condiments;30;389
+10691;03/10/1997;22/10/1997;QUICK-Stop;Germany;Chai;Beverages;30;540
+10691;03/10/1997;22/10/1997;QUICK-Stop;Germany;Thüringer Rostbratwurst;Meat/Poultry;40;4951
+10691;03/10/1997;22/10/1997;QUICK-Stop;Germany;Ipoh Coffee;Beverages;40;1840
+10691;03/10/1997;22/10/1997;QUICK-Stop;Germany;Gula Malacca;Condiments;24;466
+10691;03/10/1997;22/10/1997;QUICK-Stop;Germany;Tarte au sucre;Confections;48;2366
+10692;03/10/1997;13/10/1997;Alfreds Futterkiste;Germany;Vegie-spread;Condiments;20;878
+10693;06/10/1997;10/10/1997;White Clover Markets;USA;Mishi Kobe Niku;Meat/Poultry;6;582
+10693;06/10/1997;10/10/1997;White Clover Markets;USA;Tourtière;Meat/Poultry;60;446
+10693;06/10/1997;10/10/1997;White Clover Markets;USA;Gudbrandsdalsost;Dairy Products;30;1079
+10693;06/10/1997;10/10/1997;White Clover Markets;USA;Röd Kaviar;Seafood;15;224
+10694;06/10/1997;09/10/1997;QUICK-Stop;Germany;Uncle Bob's Organic Dried Pears;Produce;90;2700
+10694;06/10/1997;09/10/1997;QUICK-Stop;Germany;Raclette Courdavault;Dairy Products;25;1375
+10694;06/10/1997;09/10/1997;QUICK-Stop;Germany;Outback Lager;Beverages;50;750
+10695;07/10/1997;14/10/1997;Wilman Kala;Finland;Northwoods Cranberry Sauce;Condiments;10;400
+10695;07/10/1997;14/10/1997;Wilman Kala;Finland;Queso Manchego La Pastora;Dairy Products;4;152
+10695;07/10/1997;14/10/1997;Wilman Kala;Finland;Guaraná Fantástica;Beverages;20;90
+10696;08/10/1997;14/10/1997;White Clover Markets;USA;Alice Mutton;Meat/Poultry;20;780
+10696;08/10/1997;14/10/1997;White Clover Markets;USA;Spegesild;Seafood;18;216
+10697;08/10/1997;14/10/1997;LINO-Delicateses;Venezuela;Teatime Chocolate Biscuits;Confections;7;64
+10697;08/10/1997;14/10/1997;LINO-Delicateses;Venezuela;Steeleye Stout;Beverages;9;161
+10697;08/10/1997;14/10/1997;LINO-Delicateses;Venezuela;Escargots de Bourgogne;Seafood;30;397
+10697;08/10/1997;14/10/1997;LINO-Delicateses;Venezuela;Outback Lager;Beverages;30;449
+10698;09/10/1997;17/10/1997;Ernst Handel;Austria;Queso Cabrales;Dairy Products;15;315
+10698;09/10/1997;17/10/1997;Ernst Handel;Austria;Alice Mutton;Meat/Poultry;8;311
+10698;09/10/1997;17/10/1997;Ernst Handel;Austria;Thüringer Rostbratwurst;Meat/Poultry;12;1485
+10698;09/10/1997;17/10/1997;Ernst Handel;Austria;Louisiana Fiery Hot Pepper Sauce;Condiments;65;1368
+10698;09/10/1997;17/10/1997;Ernst Handel;Austria;Outback Lager;Beverages;8;119
+10699;09/10/1997;13/10/1997;Morgenstern Gesundkost;Germany;Zaanse koeken;Confections;12;114
+10700;10/10/1997;16/10/1997;Save-a-lot Markets;USA;Chai;Beverages;5;89
+10700;10/10/1997;16/10/1997;Save-a-lot Markets;USA;Sasquatch Ale;Beverages;12;167
+10700;10/10/1997;16/10/1997;Save-a-lot Markets;USA;Scottish Longbreads;Confections;40;499
+10700;10/10/1997;16/10/1997;Save-a-lot Markets;USA;Flotemysost;Dairy Products;60;1289
+10701;13/10/1997;15/10/1997;Hungry Owl All-Night Grocers;Ireland;Raclette Courdavault;Dairy Products;42;2309
+10701;13/10/1997;15/10/1997;Hungry Owl All-Night Grocers;Ireland;Flotemysost;Dairy Products;20;429
+10701;13/10/1997;15/10/1997;Hungry Owl All-Night Grocers;Ireland;Lakkalikööri;Beverages;35;629
+10702;13/10/1997;21/10/1997;Alfreds Futterkiste;Germany;Aniseed Syrup;Condiments;6;60
+10702;13/10/1997;21/10/1997;Alfreds Futterkiste;Germany;Lakkalikööri;Beverages;15;270
+10703;14/10/1997;20/10/1997;Folk och fä HB;Sweden;Chang;Beverages;5;95
+10703;14/10/1997;20/10/1997;Folk och fä HB;Sweden;Raclette Courdavault;Dairy Products;35;1925
+10703;14/10/1997;20/10/1997;Folk och fä HB;Sweden;Röd Kaviar;Seafood;35;525
+10704;14/10/1997;07/11/1997;Queen Cozinha;Brazil;Chef Anton's Cajun Seasoning;Condiments;6;132
+10704;14/10/1997;07/11/1997;Queen Cozinha;Brazil;Guaraná Fantástica;Beverages;35;157
+10704;14/10/1997;07/11/1997;Queen Cozinha;Brazil;Chocolade;Confections;24;306
+10705;15/10/1997;18/11/1997;HILARION-Abastos;Venezuela;Gorgonzola Telino;Dairy Products;20;250
+10705;15/10/1997;18/11/1997;HILARION-Abastos;Venezuela;Mascarpone Fabioli;Dairy Products;4;128
+10706;16/10/1997;21/10/1997;Old World Delicatessen;USA;Pavlova;Confections;20;349
+10706;16/10/1997;21/10/1997;Old World Delicatessen;USA;Ipoh Coffee;Beverages;24;1104
+10706;16/10/1997;21/10/1997;Old World Delicatessen;USA;Raclette Courdavault;Dairy Products;8;440
+10707;16/10/1997;23/10/1997;Around the Horn;UK;Pâté chinois;Meat/Poultry;21;504
+10707;16/10/1997;23/10/1997;Around the Horn;UK;Ravioli Angelo;Grains/Cereals;40;780
+10707;16/10/1997;23/10/1997;Around the Horn;UK;Outback Lager;Beverages;28;419
+10708;17/10/1997;05/11/1997;The Big Cheese;USA;Chef Anton's Gumbo Mix;Condiments;4;85
+10708;17/10/1997;05/11/1997;The Big Cheese;USA;Inlagd Sill;Seafood;5;95
+10709;17/10/1997;20/11/1997;Gourmet Lanchonetes;Brazil;Northwoods Cranberry Sauce;Condiments;40;1600
+10709;17/10/1997;20/11/1997;Gourmet Lanchonetes;Brazil;Manjimup Dried Apples;Produce;28;1484
+10709;17/10/1997;20/11/1997;Gourmet Lanchonetes;Brazil;Camembert Pierrot;Dairy Products;10;340
+10710;20/10/1997;23/10/1997;Franchi S.p.A.;Italy;Teatime Chocolate Biscuits;Confections;5;46
+10710;20/10/1997;23/10/1997;Franchi S.p.A.;Italy;Zaanse koeken;Confections;5;47
+10711;21/10/1997;29/10/1997;Save-a-lot Markets;USA;Teatime Chocolate Biscuits;Confections;12;110
+10711;21/10/1997;29/10/1997;Save-a-lot Markets;USA;Jack's New England Clam Chowder;Seafood;42;405
+10711;21/10/1997;29/10/1997;Save-a-lot Markets;USA;Perth Pasties;Meat/Poultry;120;3936
+10712;21/10/1997;31/10/1997;Hungry Owl All-Night Grocers;Ireland;Perth Pasties;Meat/Poultry;3;98
+10712;21/10/1997;31/10/1997;Hungry Owl All-Night Grocers;Ireland;Gnocchi di nonna Alice;Grains/Cereals;30;1140
+10713;22/10/1997;24/10/1997;Save-a-lot Markets;USA;Ikura;Seafood;18;558
+10713;22/10/1997;24/10/1997;Save-a-lot Markets;USA;Gumbär Gummibärchen;Confections;30;936
+10713;22/10/1997;24/10/1997;Save-a-lot Markets;USA;Rogede sild;Seafood;110;1045
+10713;22/10/1997;24/10/1997;Save-a-lot Markets;USA;Spegesild;Seafood;24;288
+10714;22/10/1997;27/10/1997;Save-a-lot Markets;USA;Chang;Beverages;30;569
+10714;22/10/1997;27/10/1997;Save-a-lot Markets;USA;Alice Mutton;Meat/Poultry;27;1052
+10714;22/10/1997;27/10/1997;Save-a-lot Markets;USA;Zaanse koeken;Confections;50;474
+10714;22/10/1997;27/10/1997;Save-a-lot Markets;USA;Gnocchi di nonna Alice;Grains/Cereals;18;683
+10714;22/10/1997;27/10/1997;Save-a-lot Markets;USA;Escargots de Bourgogne;Seafood;12;158
+10715;23/10/1997;29/10/1997;Bon app';France;Ikura;Seafood;21;651
+10715;23/10/1997;29/10/1997;Bon app';France;Flotemysost;Dairy Products;30;645
+10716;24/10/1997;27/10/1997;Rancho grande;Argentina;Sir Rodney's Scones;Confections;5;50
+10716;24/10/1997;27/10/1997;Rancho grande;Argentina;Manjimup Dried Apples;Produce;7;371
+10716;24/10/1997;27/10/1997;Rancho grande;Argentina;Sirop d'érable;Condiments;10;285
+10717;24/10/1997;29/10/1997;Frankenversand;Germany;Sir Rodney's Scones;Confections;32;319
+10717;24/10/1997;29/10/1997;Frankenversand;Germany;Tourtière;Meat/Poultry;15;111
+10717;24/10/1997;29/10/1997;Frankenversand;Germany;Gudbrandsdalsost;Dairy Products;25;899
+10718;27/10/1997;29/10/1997;Königlich Essen;Germany;Queso Manchego La Pastora;Dairy Products;36;1368
+10718;27/10/1997;29/10/1997;Königlich Essen;Germany;Pavlova;Confections;20;349
+10718;27/10/1997;29/10/1997;Königlich Essen;Germany;Inlagd Sill;Seafood;40;760
+10718;27/10/1997;29/10/1997;Königlich Essen;Germany;Tarte au sucre;Confections;20;986
+10719;27/10/1997;05/11/1997;Let's Stop N Shop;USA;Carnarvon Tigers;Seafood;12;749
+10719;27/10/1997;05/11/1997;Let's Stop N Shop;USA;Nord-Ost Matjeshering;Seafood;3;77
+10719;27/10/1997;05/11/1997;Let's Stop N Shop;USA;Tourtière;Meat/Poultry;40;297
+10720;28/10/1997;05/11/1997;Que Delícia;Brazil;Steeleye Stout;Beverages;21;378
+10720;28/10/1997;05/11/1997;Que Delícia;Brazil;Flotemysost;Dairy Products;8;172
+10721;29/10/1997;31/10/1997;QUICK-Stop;Germany;Gula Malacca;Condiments;50;972
+10722;29/10/1997;04/11/1997;Save-a-lot Markets;USA;Chang;Beverages;3;57
+10722;29/10/1997;04/11/1997;Save-a-lot Markets;USA;Gorgonzola Telino;Dairy Products;50;625
+10722;29/10/1997;04/11/1997;Save-a-lot Markets;USA;Scottish Longbreads;Confections;45;562
+10722;29/10/1997;04/11/1997;Save-a-lot Markets;USA;Rhönbräu Klosterbier;Beverages;42;325
+10723;30/10/1997;25/11/1997;White Clover Markets;USA;Gumbär Gummibärchen;Confections;15;468
+10724;30/10/1997;05/11/1997;Mère Paillarde;Canada;Ikura;Seafood;16;496
+10724;30/10/1997;05/11/1997;Mère Paillarde;Canada;Sirop d'érable;Condiments;5;142
+10725;31/10/1997;05/11/1997;Familia Arquibaldo;Brazil;Jack's New England Clam Chowder;Seafood;12;115
+10725;31/10/1997;05/11/1997;Familia Arquibaldo;Brazil;Filo Mix;Grains/Cereals;4;28
+10725;31/10/1997;05/11/1997;Familia Arquibaldo;Brazil;Pâté chinois;Meat/Poultry;6;144
+10726;03/11/1997;05/12/1997;Eastern Connection;UK;Chef Anton's Cajun Seasoning;Condiments;25;550
+10726;03/11/1997;05/12/1997;Eastern Connection;UK;Queso Cabrales;Dairy Products;5;105
+10727;03/11/1997;05/12/1997;Reggiani Caseifici;Italy;Alice Mutton;Meat/Poultry;20;779
+10727;03/11/1997;05/12/1997;Reggiani Caseifici;Italy;Gnocchi di nonna Alice;Grains/Cereals;10;379
+10727;03/11/1997;05/12/1997;Reggiani Caseifici;Italy;Raclette Courdavault;Dairy Products;10;549
+10728;04/11/1997;11/11/1997;Queen Cozinha;Brazil;Nord-Ost Matjeshering;Seafood;15;388
+10728;04/11/1997;11/11/1997;Queen Cozinha;Brazil;Boston Crab Meat;Seafood;6;110
+10728;04/11/1997;11/11/1997;Queen Cozinha;Brazil;Pâté chinois;Meat/Poultry;12;288
+10728;04/11/1997;11/11/1997;Queen Cozinha;Brazil;Camembert Pierrot;Dairy Products;15;510
+10729;04/11/1997;14/11/1997;LINO-Delicateses;Venezuela;Chai;Beverages;50;900
+10729;04/11/1997;14/11/1997;LINO-Delicateses;Venezuela;Sir Rodney's Scones;Confections;30;300
+10729;04/11/1997;14/11/1997;LINO-Delicateses;Venezuela;Valkoinen suklaa;Confections;40;650
+10730;05/11/1997;14/11/1997;Bon app';France;Pavlova;Confections;15;261
+10730;05/11/1997;14/11/1997;Bon app';France;Gorgonzola Telino;Dairy Products;3;37
+10730;05/11/1997;14/11/1997;Bon app';France;Louisiana Fiery Hot Pepper Sauce;Condiments;10;210
+10731;06/11/1997;14/11/1997;Chop-suey Chinese;Switzerland;Sir Rodney's Scones;Confections;40;399
+10731;06/11/1997;14/11/1997;Chop-suey Chinese;Switzerland;Manjimup Dried Apples;Produce;30;1589
+10732;06/11/1997;07/11/1997;Bon app';France;Lakkalikööri;Beverages;20;360
+10733;07/11/1997;10/11/1997;Berglunds snabbköp;Sweden;Tofu;Produce;16;372
+10733;07/11/1997;10/11/1997;Berglunds snabbköp;Sweden;Rössle Sauerkraut;Produce;20;912
+10733;07/11/1997;10/11/1997;Berglunds snabbköp;Sweden;Filo Mix;Grains/Cereals;25;175
+10734;07/11/1997;12/11/1997;Gourmet Lanchonetes;Brazil;Grandma's Boysenberry Spread;Condiments;30;750
+10734;07/11/1997;12/11/1997;Gourmet Lanchonetes;Brazil;Nord-Ost Matjeshering;Seafood;15;388
+10734;07/11/1997;12/11/1997;Gourmet Lanchonetes;Brazil;Lakkalikööri;Beverages;20;360
+10735;10/11/1997;21/11/1997;Let's Stop N Shop;USA;Sirop d'érable;Condiments;20;569
+10735;10/11/1997;21/11/1997;Let's Stop N Shop;USA;Original Frankfurter grüne Soße;Condiments;2;25
+10736;11/11/1997;21/11/1997;Hungry Owl All-Night Grocers;Ireland;Louisiana Fiery Hot Pepper Sauce;Condiments;40;842
+10736;11/11/1997;21/11/1997;Hungry Owl All-Night Grocers;Ireland;Rhönbräu Klosterbier;Beverages;20;155
+10737;11/11/1997;18/11/1997;Vins et alcools Chevalier;France;Konbu;Seafood;4;24
+10737;11/11/1997;18/11/1997;Vins et alcools Chevalier;France;Jack's New England Clam Chowder;Seafood;12;115
+10738;12/11/1997;18/11/1997;Spécialités du monde;France;Pavlova;Confections;3;52
+10739;12/11/1997;17/11/1997;Vins et alcools Chevalier;France;Inlagd Sill;Seafood;6;114
+10739;12/11/1997;17/11/1997;Vins et alcools Chevalier;France;Filo Mix;Grains/Cereals;18;126
+10740;13/11/1997;25/11/1997;White Clover Markets;USA;Rössle Sauerkraut;Produce;5;227
+10740;13/11/1997;25/11/1997;White Clover Markets;USA;Steeleye Stout;Beverages;35;629
+10740;13/11/1997;25/11/1997;White Clover Markets;USA;Rogede sild;Seafood;40;379
+10740;13/11/1997;25/11/1997;White Clover Markets;USA;Gnocchi di nonna Alice;Grains/Cereals;14;531
+10741;14/11/1997;18/11/1997;Around the Horn;UK;Chang;Beverages;15;284
+10742;14/11/1997;18/11/1997;Bottom-Dollar Markets;Canada;Aniseed Syrup;Condiments;20;200
+10742;14/11/1997;18/11/1997;Bottom-Dollar Markets;Canada;Camembert Pierrot;Dairy Products;50;1700
+10742;14/11/1997;18/11/1997;Bottom-Dollar Markets;Canada;Mozzarella di Giovanni;Dairy Products;35;1218
+10743;17/11/1997;21/11/1997;Around the Horn;UK;Spegesild;Seafood;28;335
+10744;17/11/1997;24/11/1997;Vaffeljernet;Denmark;Boston Crab Meat;Seafood;50;919
+10745;18/11/1997;27/11/1997;QUICK-Stop;Germany;Carnarvon Tigers;Seafood;24;1500
+10745;18/11/1997;27/11/1997;QUICK-Stop;Germany;Gula Malacca;Condiments;16;311
+10745;18/11/1997;27/11/1997;QUICK-Stop;Germany;Raclette Courdavault;Dairy Products;45;2475
+10745;18/11/1997;27/11/1997;QUICK-Stop;Germany;Mozzarella di Giovanni;Dairy Products;7;243
+10746;19/11/1997;21/11/1997;Chop-suey Chinese;Switzerland;Konbu;Seafood;6;36
+10746;19/11/1997;21/11/1997;Chop-suey Chinese;Switzerland;Singaporean Hokkien Fried Mee;Grains/Cereals;28;392
+10746;19/11/1997;21/11/1997;Chop-suey Chinese;Switzerland;Tarte au sucre;Confections;9;443
+10746;19/11/1997;21/11/1997;Chop-suey Chinese;Switzerland;Gudbrandsdalsost;Dairy Products;40;1440
+10747;19/11/1997;26/11/1997;Piccolo und mehr;Austria;Gorgonzola Telino;Dairy Products;8;100
+10747;19/11/1997;26/11/1997;Piccolo und mehr;Austria;Jack's New England Clam Chowder;Seafood;35;337
+10747;19/11/1997;26/11/1997;Piccolo und mehr;Austria;Vegie-spread;Condiments;9;395
+10747;19/11/1997;26/11/1997;Piccolo und mehr;Austria;Gudbrandsdalsost;Dairy Products;30;1080
+10748;20/11/1997;28/11/1997;Save-a-lot Markets;USA;Tunnbröd;Grains/Cereals;44;396
+10748;20/11/1997;28/11/1997;Save-a-lot Markets;USA;Boston Crab Meat;Seafood;40;736
+10748;20/11/1997;28/11/1997;Save-a-lot Markets;USA;Gnocchi di nonna Alice;Grains/Cereals;28;1064
+10749;20/11/1997;19/12/1997;Island Trading;UK;Gnocchi di nonna Alice;Grains/Cereals;15;570
+10749;20/11/1997;19/12/1997;Island Trading;UK;Raclette Courdavault;Dairy Products;6;330
+10749;20/11/1997;19/12/1997;Island Trading;UK;Lakkalikööri;Beverages;10;180
+10750;21/11/1997;24/11/1997;Wartian Herkku;Finland;Tofu;Produce;5;116
+10750;21/11/1997;24/11/1997;Wartian Herkku;Finland;Rogede sild;Seafood;40;379
+10750;21/11/1997;24/11/1997;Wartian Herkku;Finland;Raclette Courdavault;Dairy Products;25;1374
+10751;24/11/1997;03/12/1997;Richter Supermarkt;Switzerland;Gumbär Gummibärchen;Confections;12;374
+10751;24/11/1997;03/12/1997;Richter Supermarkt;Switzerland;Nord-Ost Matjeshering;Seafood;30;776
+10751;24/11/1997;03/12/1997;Richter Supermarkt;Switzerland;Valkoinen suklaa;Confections;20;324
+10751;24/11/1997;03/12/1997;Richter Supermarkt;Switzerland;Röd Kaviar;Seafood;15;225
+10752;24/11/1997;28/11/1997;North/South;UK;Chai;Beverages;8;144
+10752;24/11/1997;28/11/1997;North/South;UK;Gudbrandsdalsost;Dairy Products;3;108
+10753;25/11/1997;27/11/1997;Franchi S.p.A.;Italy;Rogede sild;Seafood;4;38
+10753;25/11/1997;27/11/1997;Franchi S.p.A.;Italy;Longlife Tofu;Produce;5;50
+10754;25/11/1997;27/11/1997;Magazzini Alimentari Riuniti;Italy;Boston Crab Meat;Seafood;3;55
+10755;26/11/1997;28/11/1997;Bon app';France;Zaanse koeken;Confections;30;284
+10755;26/11/1997;28/11/1997;Bon app';France;Gnocchi di nonna Alice;Grains/Cereals;30;1139
+10755;26/11/1997;28/11/1997;Bon app';France;Ravioli Angelo;Grains/Cereals;14;272
+10755;26/11/1997;28/11/1997;Bon app';France;Gudbrandsdalsost;Dairy Products;25;899
+10756;27/11/1997;02/12/1997;Split Rail Beer & Ale;USA;Carnarvon Tigers;Seafood;21;1312
+10756;27/11/1997;02/12/1997;Split Rail Beer & Ale;USA;Inlagd Sill;Seafood;20;379
+10756;27/11/1997;02/12/1997;Split Rail Beer & Ale;USA;Scottish Longbreads;Confections;6;74
+10756;27/11/1997;02/12/1997;Split Rail Beer & Ale;USA;Gudbrandsdalsost;Dairy Products;20;719
+10757;27/11/1997;15/12/1997;Save-a-lot Markets;USA;Sasquatch Ale;Beverages;30;420
+10757;27/11/1997;15/12/1997;Save-a-lot Markets;USA;Raclette Courdavault;Dairy Products;7;385
+10757;27/11/1997;15/12/1997;Save-a-lot Markets;USA;Tarte au sucre;Confections;30;1479
+10757;27/11/1997;15/12/1997;Save-a-lot Markets;USA;Wimmers gute Semmelknödel;Grains/Cereals;24;798
+10758;28/11/1997;04/12/1997;Richter Supermarkt;Switzerland;Gumbär Gummibärchen;Confections;20;624
+10758;28/11/1997;04/12/1997;Richter Supermarkt;Switzerland;Filo Mix;Grains/Cereals;60;420
+10758;28/11/1997;04/12/1997;Richter Supermarkt;Switzerland;Outback Lager;Beverages;40;600
+10759;28/11/1997;12/12/1997;Ana Trujillo Emparedados y helados;Mexico;Mascarpone Fabioli;Dairy Products;10;320
+10760;01/12/1997;10/12/1997;Maison Dewey;Belgium;NuNuCa Nuß-Nougat-Creme;Confections;12;167
+10760;01/12/1997;10/12/1997;Maison Dewey;Belgium;Schoggi Schokolade;Confections;40;1756
+10760;01/12/1997;10/12/1997;Maison Dewey;Belgium;Ipoh Coffee;Beverages;30;1379
+10761;02/12/1997;08/12/1997;Rattlesnake Canyon Grocery;USA;NuNuCa Nuß-Nougat-Creme;Confections;35;489
+10761;02/12/1997;08/12/1997;Rattlesnake Canyon Grocery;USA;Rhönbräu Klosterbier;Beverages;18;139
+10762;02/12/1997;09/12/1997;Folk och fä HB;Sweden;Chartreuse verte;Beverages;16;288
+10762;02/12/1997;09/12/1997;Folk och fä HB;Sweden;Zaanse koeken;Confections;30;285
+10762;02/12/1997;09/12/1997;Folk och fä HB;Sweden;Manjimup Dried Apples;Produce;28;1484
+10762;02/12/1997;09/12/1997;Folk och fä HB;Sweden;Gnocchi di nonna Alice;Grains/Cereals;60;2280
+10763;03/12/1997;08/12/1997;Folies gourmandes;France;Sir Rodney's Scones;Confections;40;400
+10763;03/12/1997;08/12/1997;Folies gourmandes;France;Gustaf's Knäckebröd;Grains/Cereals;6;126
+10763;03/12/1997;08/12/1997;Folies gourmandes;France;Guaraná Fantástica;Beverages;20;90
+10764;03/12/1997;08/12/1997;Ernst Handel;Austria;Aniseed Syrup;Condiments;20;199
+10764;03/12/1997;08/12/1997;Ernst Handel;Austria;Chartreuse verte;Beverages;130;2339
+10765;04/12/1997;09/12/1997;QUICK-Stop;Germany;Louisiana Fiery Hot Pepper Sauce;Condiments;80;1683
+10766;05/12/1997;09/12/1997;Ottilies Käseladen;Germany;Chang;Beverages;40;760
+10766;05/12/1997;09/12/1997;Ottilies Käseladen;Germany;Uncle Bob's Organic Dried Pears;Produce;35;1050
+10766;05/12/1997;09/12/1997;Ottilies Käseladen;Germany;Scottish Longbreads;Confections;40;500
+10767;05/12/1997;15/12/1997;Suprêmes délices;Belgium;Singaporean Hokkien Fried Mee;Grains/Cereals;2;28
+10768;08/12/1997;15/12/1997;Around the Horn;UK;Gustaf's Knäckebröd;Grains/Cereals;4;84
+10768;08/12/1997;15/12/1997;Around the Horn;UK;Gorgonzola Telino;Dairy Products;50;625
+10768;08/12/1997;15/12/1997;Around the Horn;UK;Camembert Pierrot;Dairy Products;15;510
+10768;08/12/1997;15/12/1997;Around the Horn;UK;Flotemysost;Dairy Products;12;258
+10769;08/12/1997;12/12/1997;Vaffeljernet;Denmark;Jack's New England Clam Chowder;Seafood;30;289
+10769;08/12/1997;12/12/1997;Vaffeljernet;Denmark;Filo Mix;Grains/Cereals;15;104
+10769;08/12/1997;12/12/1997;Vaffeljernet;Denmark;Sirop d'érable;Condiments;20;570
+10769;08/12/1997;12/12/1997;Vaffeljernet;Denmark;Tarte au sucre;Confections;15;739
+10770;09/12/1997;17/12/1997;Hanari Carnes;Brazil;Queso Cabrales;Dairy Products;15;314
+10771;10/12/1997;02/01/1998;Ernst Handel;Austria;Flotemysost;Dairy Products;16;344
+10772;10/12/1997;19/12/1997;Lehmanns Marktstand;Germany;Thüringer Rostbratwurst;Meat/Poultry;18;2228
+10772;10/12/1997;19/12/1997;Lehmanns Marktstand;Germany;Raclette Courdavault;Dairy Products;25;1375
+10773;11/12/1997;16/12/1997;Ernst Handel;Austria;Alice Mutton;Meat/Poultry;33;1287
+10773;11/12/1997;16/12/1997;Ernst Handel;Austria;Gorgonzola Telino;Dairy Products;70;874
+10773;11/12/1997;16/12/1997;Ernst Handel;Austria;Rhönbräu Klosterbier;Beverages;7;54
+10774;11/12/1997;12/12/1997;Folk och fä HB;Sweden;Gorgonzola Telino;Dairy Products;2;24
+10774;11/12/1997;12/12/1997;Folk och fä HB;Sweden;Louisiana Hot Spiced Okra;Condiments;50;850
+10775;12/12/1997;26/12/1997;The Cracker Box;USA;Ikura;Seafood;6;186
+10775;12/12/1997;26/12/1997;The Cracker Box;USA;Laughing Lumberjack Lager;Beverages;3;42
+10776;15/12/1997;18/12/1997;Ernst Handel;Austria;Gorgonzola Telino;Dairy Products;16;199
+10776;15/12/1997;18/12/1997;Ernst Handel;Austria;Singaporean Hokkien Fried Mee;Grains/Cereals;12;167
+10776;15/12/1997;18/12/1997;Ernst Handel;Austria;Rogede sild;Seafood;27;256
+10776;15/12/1997;18/12/1997;Ernst Handel;Austria;Manjimup Dried Apples;Produce;120;6359
+10777;15/12/1997;21/01/1998;Gourmet Lanchonetes;Brazil;Singaporean Hokkien Fried Mee;Grains/Cereals;20;279
+10778;16/12/1997;24/12/1997;Berglunds snabbköp;Sweden;Jack's New England Clam Chowder;Seafood;10;96
+10779;16/12/1997;14/01/1998;Morgenstern Gesundkost;Germany;Pavlova;Confections;20;349
+10779;16/12/1997;14/01/1998;Morgenstern Gesundkost;Germany;Tarte au sucre;Confections;20;986
+10780;16/12/1997;25/12/1997;LILA-Supermercado;Venezuela;Outback Lager;Beverages;35;525
+10780;16/12/1997;25/12/1997;LILA-Supermercado;Venezuela;Original Frankfurter grüne Soße;Condiments;15;195
+10781;17/12/1997;19/12/1997;Wartian Herkku;Finland;Tourtière;Meat/Poultry;3;22
+10781;17/12/1997;19/12/1997;Wartian Herkku;Finland;Gnocchi di nonna Alice;Grains/Cereals;20;759
+10781;17/12/1997;19/12/1997;Wartian Herkku;Finland;Longlife Tofu;Produce;35;350
+10782;17/12/1997;22/12/1997;Cactus Comidas para llevar;Argentina;Gorgonzola Telino;Dairy Products;1;12
+10783;18/12/1997;19/12/1997;Hanari Carnes;Brazil;Gorgonzola Telino;Dairy Products;10;125
+10783;18/12/1997;19/12/1997;Hanari Carnes;Brazil;Côte de Blaye;Beverages;5;1317
+10784;18/12/1997;22/12/1997;Magazzini Alimentari Riuniti;Italy;Inlagd Sill;Seafood;30;570
+10784;18/12/1997;22/12/1997;Magazzini Alimentari Riuniti;Italy;Chartreuse verte;Beverages;2;35
+10784;18/12/1997;22/12/1997;Magazzini Alimentari Riuniti;Italy;Mozzarella di Giovanni;Dairy Products;30;1043
+10785;18/12/1997;24/12/1997;GROSELLA-Restaurante;Venezuela;Ikura;Seafood;10;310
+10785;18/12/1997;24/12/1997;GROSELLA-Restaurante;Venezuela;Rhönbräu Klosterbier;Beverages;10;77
+10786;19/12/1997;23/12/1997;Queen Cozinha;Brazil;Northwoods Cranberry Sauce;Condiments;30;1199
+10786;19/12/1997;23/12/1997;Queen Cozinha;Brazil;Nord-Ost Matjeshering;Seafood;15;388
+10786;19/12/1997;23/12/1997;Queen Cozinha;Brazil;Rhönbräu Klosterbier;Beverages;42;325
+10787;19/12/1997;26/12/1997;La maison d'Asie;France;Chang;Beverages;15;284
+10787;19/12/1997;26/12/1997;La maison d'Asie;France;Thüringer Rostbratwurst;Meat/Poultry;20;2475
+10788;22/12/1997;19/01/1998;QUICK-Stop;Germany;Teatime Chocolate Biscuits;Confections;50;459
+10788;22/12/1997;19/01/1998;QUICK-Stop;Germany;Rhönbräu Klosterbier;Beverages;40;309
+10789;22/12/1997;31/12/1997;Folies gourmandes;France;Carnarvon Tigers;Seafood;30;1875
+10789;22/12/1997;31/12/1997;Folies gourmandes;France;Steeleye Stout;Beverages;15;270
+10789;22/12/1997;31/12/1997;Folies gourmandes;France;Vegie-spread;Condiments;30;1317
+10789;22/12/1997;31/12/1997;Folies gourmandes;France;Scottish Longbreads;Confections;18;225
+10790;22/12/1997;26/12/1997;Gourmet Lanchonetes;Brazil;Uncle Bob's Organic Dried Pears;Produce;3;89
+10790;22/12/1997;26/12/1997;Gourmet Lanchonetes;Brazil;Gnocchi di nonna Alice;Grains/Cereals;20;759
+10791;23/12/1997;01/01/1998;Frankenversand;Germany;Thüringer Rostbratwurst;Meat/Poultry;14;1733
+10791;23/12/1997;01/01/1998;Frankenversand;Germany;Jack's New England Clam Chowder;Seafood;20;192
+10792;23/12/1997;31/12/1997;Wolski  Zajazd;Poland;Chang;Beverages;10;190
+10792;23/12/1997;31/12/1997;Wolski  Zajazd;Poland;Tourtière;Meat/Poultry;3;22
+10792;23/12/1997;31/12/1997;Wolski  Zajazd;Poland;Scottish Longbreads;Confections;15;187
+10793;24/12/1997;08/01/1998;Around the Horn;UK;Jack's New England Clam Chowder;Seafood;14;135
+10793;24/12/1997;08/01/1998;Around the Horn;UK;Filo Mix;Grains/Cereals;8;56
+10794;24/12/1997;02/01/1998;Que Delícia;Brazil;Tofu;Produce;15;348
+10794;24/12/1997;02/01/1998;Que Delícia;Brazil;Tourtière;Meat/Poultry;6;44
+10795;24/12/1997;20/01/1998;Ernst Handel;Austria;Pavlova;Confections;65;1134
+10795;24/12/1997;20/01/1998;Ernst Handel;Austria;Alice Mutton;Meat/Poultry;35;1364
+10796;25/12/1997;14/01/1998;HILARION-Abastos;Venezuela;Gumbär Gummibärchen;Confections;21;655
+10796;25/12/1997;14/01/1998;HILARION-Abastos;Venezuela;Gula Malacca;Condiments;10;194
+10796;25/12/1997;14/01/1998;HILARION-Abastos;Venezuela;Wimmers gute Semmelknödel;Grains/Cereals;35;1163
+10796;25/12/1997;14/01/1998;HILARION-Abastos;Venezuela;Gudbrandsdalsost;Dairy Products;24;863
+10797;25/12/1997;05/01/1998;Drachenblut Delikatessen;Germany;Queso Cabrales;Dairy Products;20;420
+10798;26/12/1997;05/01/1998;Island Trading;UK;Tarte au sucre;Confections;2;98
+10798;26/12/1997;05/01/1998;Island Trading;UK;Mozzarella di Giovanni;Dairy Products;10;348
+10799;26/12/1997;05/01/1998;Königlich Essen;Germany;Konbu;Seafood;20;119
+10799;26/12/1997;05/01/1998;Königlich Essen;Germany;Guaraná Fantástica;Beverages;20;89
+10799;26/12/1997;05/01/1998;Königlich Essen;Germany;Raclette Courdavault;Dairy Products;25;1375
+10800;26/12/1997;05/01/1998;Seven Seas Imports;UK;Queso Cabrales;Dairy Products;50;1049
+10800;26/12/1997;05/01/1998;Seven Seas Imports;UK;Manjimup Dried Apples;Produce;10;529
+10800;26/12/1997;05/01/1998;Seven Seas Imports;UK;Tourtière;Meat/Poultry;7;52
+10801;29/12/1997;31/12/1997;Bólido Comidas preparadas;Spain;Alice Mutton;Meat/Poultry;40;1559
+10801;29/12/1997;31/12/1997;Bólido Comidas preparadas;Spain;Thüringer Rostbratwurst;Meat/Poultry;20;2475
+10802;29/12/1997;02/01/1998;Simons bistro;Denmark;Nord-Ost Matjeshering;Seafood;25;647
+10802;29/12/1997;02/01/1998;Simons bistro;Denmark;Manjimup Dried Apples;Produce;30;1589
+10802;29/12/1997;02/01/1998;Simons bistro;Denmark;Pâté chinois;Meat/Poultry;60;1439
+10802;29/12/1997;02/01/1998;Simons bistro;Denmark;Tarte au sucre;Confections;5;246
+10803;30/12/1997;06/01/1998;Wellington Importadora;Brazil;Teatime Chocolate Biscuits;Confections;24;220
+10803;30/12/1997;06/01/1998;Wellington Importadora;Brazil;NuNuCa Nuß-Nougat-Creme;Confections;15;209
+10803;30/12/1997;06/01/1998;Wellington Importadora;Brazil;Raclette Courdavault;Dairy Products;15;824
+10804;30/12/1997;07/01/1998;Seven Seas Imports;UK;Ikura;Seafood;36;1116
+10804;30/12/1997;07/01/1998;Seven Seas Imports;UK;Rössle Sauerkraut;Produce;24;1094
+10804;30/12/1997;07/01/1998;Seven Seas Imports;UK;Maxilaku;Confections;4;79
+10805;30/12/1997;09/01/1998;The Big Cheese;USA;Sasquatch Ale;Beverages;10;140
+10805;30/12/1997;09/01/1998;The Big Cheese;USA;Côte de Blaye;Beverages;10;2635
+10806;31/12/1997;05/01/1998;Victuailles en stock;France;Chang;Beverages;20;379
+10806;31/12/1997;05/01/1998;Victuailles en stock;France;Louisiana Fiery Hot Pepper Sauce;Condiments;2;42
+10806;31/12/1997;05/01/1998;Victuailles en stock;France;Longlife Tofu;Produce;15;149
+10807;31/12/1997;30/01/1998;Franchi S.p.A.;Italy;Boston Crab Meat;Seafood;1;18
